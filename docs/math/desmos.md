@@ -6,30 +6,25 @@ draft: true
 
 # Main Ideas
 
-<aside>
+:::tip
 🍾 **Calculators are now permitted for the entire SAT test!!**
+:::
 
-</aside>
-
-<aside>
+:::tip
 🍾 **The testing software has a powerful, built-in graphics calculator (desmos).**
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ **Do simple arithmetic on a simple, physical calculator.**
+:::
 
-</aside>
-
-<aside>
+:::warning
 ⚠️ **Make sure to bring a FULLY charged calculator, as well as batteries and a back-up device.**
+:::
 
-</aside>
-
-<aside>
+:::danger
 🚫 **The built in version of desmos doesn’t allow you to copy paste**, so getting fast at typing math is a must!**.**
-
-</aside>
+:::
 
 # What calculator should I bring?
 
@@ -71,15 +66,13 @@ $2x+7y=9$
 
 $\left(x-2\right)^{2}+\left(y-6\right)^{2}=5$
 
-<aside>
+:::warning
 ⚠️ If you want desmos to graph an equation for you, you must use the letters $x$ and $y$ (with some exceptions). Desmos will treat other letters as constants, offering you the option to create a slider (see below).
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ To turn equations on and off, click the wavy circle beside the input field. Try it yourself below:
-
-</aside>
+:::
 
 **Try it yourself!**
 
@@ -89,10 +82,9 @@ $\left(x-2\right)^{2}+\left(y-6\right)^{2}=5$
 
 To plot inequalities, simply enter a “less than”, “greater than”, “less than or equal”, or “greater than or equal” into the input field. Desmos will shade the area on the $xy$-plane that corresponds to the inequality. 
 
-<aside>
+:::info
 ℹ️ To type a *less than or equal* or *greater than or equal* symbol, you simply type < or > followed by =, and desmos will automatically convert it into ≤ or ≥ .
-
-</aside>
+:::
 
 Try it yourself!
 
