@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+draft: true
+---
 # Linear Equations, Models & Systems
 
 # Main Ideas

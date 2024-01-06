@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+draft: true
+---
 # Calculator Use
 
 # Main Ideas
@@ -51,7 +55,7 @@ As mentioned above, the testing software you’ll be using has a built-in graphi
 
 Here’s an embedded example of desmos in use. Feel free to fiddle with the demo below:
 
-[https://www.desmos.com/calculator/xut7zdrwtx](https://www.desmos.com/calculator/xut7zdrwtx)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/xut7zdrwtx"/>
 
 ## Plotting basic functions & equations
 
@@ -79,7 +83,7 @@ $\left(x-2\right)^{2}+\left(y-6\right)^{2}=5$
 
 **Try it yourself!**
 
-[https://www.desmos.com/calculator/mmuqvvezib](https://www.desmos.com/calculator/mmuqvvezib)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/mmuqvvezib"/>
 
 ## Plotting Inequalities
 
@@ -92,7 +96,7 @@ To plot inequalities, simply enter a “less than”, “greater than”, “les
 
 Try it yourself!
 
-[https://www.desmos.com/calculator/owowlqw4p3](https://www.desmos.com/calculator/owowlqw4p3)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/owowlqw4p3"/>
 
 ## Using constants
 
@@ -100,11 +104,11 @@ Desmos allows us to graph equations with unknown constants. This means we can wr
 
 Try changing the value of $a$ by pulling the slider or inputing a value manually:
 
-[https://www.desmos.com/calculator/docorpv0vq](https://www.desmos.com/calculator/docorpv0vq)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/docorpv0vq"/>
 
 You can also click the play button next to the constant and desmos will create an animation by automatically changing the value of the constant, like so:
 
-[https://www.desmos.com/calculator/6cctkhz4ze](https://www.desmos.com/calculator/6cctkhz4ze)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/6cctkhz4ze"/>
 
 If the range of possible values for the constant is too small, you can change the range manually by clicking on the slider.
 
@@ -142,7 +146,7 @@ $arctan(x)$ is the same as $\tan^{-1}\left(x\right)$
 
 Try it yourself!
 
-[https://www.desmos.com/calculator/epig3ltqq7](https://www.desmos.com/calculator/epig3ltqq7)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/epig3ltqq7"/>
 
 ## Statistics (TODO)
 
@@ -165,11 +169,11 @@ mean(1, 2, 3, 4)
 
 ********************Checking for equivalence******************** 
 
-[https://www.desmos.com/calculator/foqurppz1j](https://www.desmos.com/calculator/foqurppz1j)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/foqurppz1j"/>
 
 ## Calculating values
 
-[https://www.desmos.com/calculator/pvtmk21di7](https://www.desmos.com/calculator/pvtmk21di7)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/pvtmk21di7"/>
 
 ## Plug-in
 
@@ -191,7 +195,7 @@ $$
         
         You could simplify the expression by cancelling out factors in the numerators and denominators, but if you’re uncomfortable with that approach, desmos is once again here to save the day. All you have to do is write in the initial expression, and allow desmos to create sliders for $a$ and $r$. Then you write in the answer choices and see which one produces the same output:
         
-        [https://www.desmos.com/calculator/ilhxiescus](https://www.desmos.com/calculator/ilhxiescus)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/ilhxiescus"/>
         
         In our case, no matter which values you select for $r$ and $a$ , answer choice (A) always produces the same output, so it’s equivalent to the initial expression. Try sliding the knobs around to see the outputs change. See?
         
@@ -220,7 +224,7 @@ and solve from there. Sure, it’ll work, but using desmos makes this trivially 
 
  
 
-[https://www.desmos.com/calculator/lajpemppqo](https://www.desmos.com/calculator/lajpemppqo)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator/lajpemppqo"/>
 
 ## Exercises
 
@@ -235,7 +239,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     3. $(x-8)(x+5)$
     4. $(x-10)(x+4)$
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 2**
     
@@ -245,7 +249,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     
     What is the positive solution to the given equation?
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 3**
     
@@ -260,7 +264,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     3. $(0,1)$
     4. $(0,12)$
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 4**
     
@@ -271,7 +275,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     3. $29$
     4. $154$
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 5**
     
@@ -287,7 +291,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     3. $14$
     4. $18$
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 6**
     
@@ -297,7 +301,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     
     The given equation defines the function $f$. For what value of $x$ does $f(x)$ reach its minimum?
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 7**
     
@@ -308,7 +312,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     3. $24$
     4. $252$
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
 - **Question 8**
     
@@ -319,4 +323,4 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     3. $36$
     4. $39$
     
-    [https://www.desmos.com/calculator](https://www.desmos.com/calculator)
+<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>

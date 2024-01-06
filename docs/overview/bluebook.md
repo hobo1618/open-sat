@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+draft: true
+---
 # Bluebook
 
 The SAT is now administered on an application called Bluebook. The app can be downloaded here:
