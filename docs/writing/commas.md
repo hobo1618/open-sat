@@ -1,27 +1,24 @@
 # Commas, Dashes & Parenthetical phrases
 
-<aside>
+:::warning
 ⚠️ When we remove parentheticals we must be careful ********************************not to remove the subject or the verb from the sentence.******************************** In other words, not all phrases between commas are parenthetical phrases. 
 [⇒ jump to content](https://www.notion.so/Commas-Dashes-Parenthetical-phrases-f6833443a83344a69d2a8c84784724b8?pvs=21)
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ **There are two uses of the dash:**
 
 - A problem with 1 dash requires you to apply the rules of [sentence boundaries](https://www.notion.so/Boundaries-Published-b5f2b63d8b68440ba352d522310bea14?pvs=21).
 - A problem with 2 dashes requires you to apply the rules of parenthetical phrases.
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ **Job titles should not include commas.**
+:::
 
-</aside>
-
-<aside>
+:::warning
 ⚠️ **Never blindly eliminate an answer choice with a comma beside a prepostion.** There are many questions—especially the more difficult ones—where the right answer includes a preposition with a parenthetical phrase beside it.
-
-</aside>
+:::
 
 # Parenthetical phrases
 
@@ -260,12 +257,11 @@ Again, this rule can lead to some awkward sentences. Here are some examples of s
 
 Prepositions are little words that show the relation between two nouns. That probably didn’t help much, but I’m sure you’re already familiar with these words and can probably identify them pretty easily already. Here’s a bunch of examples of prepositions:
 
-<aside>
+:::info
 ℹ️ ********prepositions:******** ***on, in, for, of, at, with, after, with, without, until***
 
 These words are used to show how two ideas, objects, concepts or whatever are related in space or time.
-
-</aside>
+:::
 
 When a preposition is used to connect two ideas or objects, we get a ********************prepositional phrase********************. Here are some more examples:
 

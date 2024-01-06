@@ -1,34 +1,30 @@
 # Boundaries
 
-<aside>
+:::info
 ℹ️ **These questions require you to understand whether a sentence is complete or not**. A full sentence must contain at least one independent clause.
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ There are 3 types of boundaries questions**: punctuation** questions**; verb activation** questions**;** and **conjunctions, relative pronouns,** and **demotion questions.**  The can be identified by these features
 
 - **Verb activation questions** (as opposed to conjugation and verb agreement questions) will include only one answer choice with an active verb (*****runs)*****, and three answer choices with inactive verbs (**************to run, running, having run**************).
 - **Punctuation questions** require you to choose between a **semicolon**, **colon**, **dash,** and **********comma**********.
 - ******Relative pronoun questions****** will include at least one answer choice with *************which, that,************* or ****who,**** and at least one answer choice **without** **************************which, that************************** **or** **************************who.**************************
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ Trust your ear to tell you what is or isn’t a full sentence.
+:::
 
-</aside>
-
-<aside>
+:::tip
 ✅ In terms of English syntax, **semicolons and periods are always interchangeable**. And since we cannot ever have two correct answers on the SAT, if you see two answer choices that are identical except one uses a period and the other uses a semicolon, **they must both be incorrect.**
+:::
 
-</aside>
-
-<aside>
+:::danger
 ⛔ Yes, colons are good at introducing lists, but **DON’T FALL FOR THIS COMMON TRAP**: colons must still have a full sentence on their LHS even they are introducing a list. **If the LHS isn’t a complete sentence, the colon is simply wrong**.
+:::
 
-</aside>
-
-<aside>
+:::danger
 ⛔ Conjunctive adverbs are ********************************not conjunctions******************************** so they can’t join sentences by themselves. They can be used with semicolons, colons, or dashes, however. Here are some examples:
 
 ❌ *********************I like cats, however, I don’t own one.*********************
@@ -39,17 +35,15 @@
 
 ✅ *****************I like dogs: for instance, I particularly love Westies.*****************
 
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ Colons and dashes each require a full sentence on the left hand side, **************************************************************but they are not totally interchangeable.************************************************************** The colon, generally speaking, is less versatile than the dash. In other words if you’re stuck between the two, the dash is probably the better guess.
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ When two full sentences are incorrectly joined with a comma, we call this a ************************comma splice************************ or ******************************run-on sentences******************************.
-
-</aside>
+:::
 
 # Are these fragments or full sentences?
 

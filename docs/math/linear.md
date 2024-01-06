@@ -6,47 +6,45 @@ draft: true
 
 # Main Ideas
 
-<aside>
+:::warning
 ⚠️ The concepts in this topic are mostly simple, but **don’t fool yourself** — many linear-equations questions are really tough, and you have to be really fast and really accurate at applying these ideas if you want to get these harder questions right.
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ Linear functions have a ****************constant**************** rate of change, which we call the slope or gradient.
+:::
 
-</aside>
-
-<aside>
+:::info
 ℹ️ You need to know two forms of the linear equation really, really well:
 
 - the slope intercept form ⇒ $y=mx+c$
 - the general form ⇒ $ax+by=k$
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ The gradient formula is a must-know:
 
 $$
 ⁍
 $$
 
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ The slope and y-intercept of a line in general form are $-a/b$ and $k/b$ respectively
 
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ Parallel lines have equal slopes:
 
 $$
 m_1=m_2
 $$
 
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ Perpendicular lines have negative reciprocal slopes:
 
 $$
@@ -59,12 +57,12 @@ $$
 m_1=-\frac{a}{b}\\m_2=\frac{b}{a}
 $$
 
-</aside>
+:::
 
-<aside>
+:::info
 ℹ️ The calculator is your best bet for many systems of equations questions.
 
-</aside>
+:::
 
 # Solving linear equations
 
@@ -631,10 +629,9 @@ $r-j=207$
         m=\frac{rise}{run}=-\frac{40}{60}=-2/3
         $$
         
-        <aside>
+        :::warning
         ⚠️ **Careful with the negatives here!** The slope is clearly negative because it is sloping downwards, so be careful not to wind-up with $+2/3$ !
-        
-        </aside>
+        :::
         
         Now all we have to do is compare this value to the given slopes:
         
@@ -643,10 +640,9 @@ $r-j=207$
         3.  $y=12x+8$  ⇒  $m=12\neq -2/3$ , so this is incorrect
         4.  $12x+8y=240$*  ⇒  $m=-12/8\neq -2/3$ , so this is incorrect
         
-        <aside>
+        :::info
         ℹ️ *Given the general form of a line: $ax+by=k$ , the slope can be easily calculated using $m=-a/b$
-        
-        </aside>
+        :::
         
         Since the only option with the correct gradient is (B), then it must be the correct answer!
         
