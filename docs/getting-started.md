@@ -11,7 +11,7 @@ quickly become the go to resource for SAT tricks and strategies, and I hope that
 help that become a reality.
 
 This is an open source project and contributions are always welcome. That could be contributions to the codebase as well as contributions to the educational content. 
-If something is poorly worded, unclear, or flat out wrong, we want to know. See the [contributing](getting-started/) section 
+If something is poorly worded, unclear, or flat out wrong, we want to know. See the [contributing](getting-started#contributing) section 
 for more details on how to help out.
 
 ## Motivation
@@ -28,14 +28,22 @@ But everything I know will eventually be in this website, if it isn't already.
 
 ## So what's in the box?
 
-### Tutorials
+### Content
+Where you are right now. If you keep pressing next after each page, you'll move through the content in order from most general / basic to most complex/specific. Kind of. It's not as easy as it sounds to put concepts in order of difficulty, believe it or not.
 
 ### Blog posts
+The blog is for content that doesn't fit easily into a learning path, such as broader discussions about testing fairness (cough), tips on keeping focused, or whatever else. Video content posted to
+YouTube will also be posted here, along with a short explanation of the ideas covered.
 
 ### Live streams
+Every Sunday at 8pm CET (Paris, Madrid) I'll be doing a 90-minute live stream where I answer your questions, 
+explain some concept that's been on my mind, comment on bad test-prep advice, or just work on this site.
 
 ### Discord
+We're on Discord! If you want to chat with others about whatever, that's the place to do it. 
 
 ## Contributing
+Are you a teacher or developer? The more help we can get the better. If you've got an idea for a feature or if you'd like to try your hand at writing some content, open a PR! If you're a teacher
+with no coding experience at all, and that last sentence went right over your head, I'll be posting a tutorial for how to propose changes or ideas for content.
 
 

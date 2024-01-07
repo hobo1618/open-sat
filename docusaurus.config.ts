@@ -7,7 +7,7 @@ import rehypeKatex from 'rehype-katex';
 const config: Config = {
     title: 'Open SAT',
     tagline: 'Free, open-source SAT prep for everyone',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/smiley.ico',
     stylesheets: [
         {
             href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
@@ -78,8 +78,8 @@ const config: Config = {
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
             logo: {
-                alt: 'My Site Logo',
-                src: 'img/logo.svg',
+                alt: 'Open SAT Logo',
+                src: 'img/smiley.svg',
             },
             items: [
                 {
