@@ -11,7 +11,7 @@ quickly become the go to resource for SAT tricks and strategies, and I hope that
 help that become a reality.
 
 This is an open source project and contributions are always welcome. That could be contributions to the codebase as well as contributions to the educational content. 
-If something is poorly worded, unclear, or flat out wrong, we want to know. See the [contributing](contributing/) section 
+If something is poorly worded, unclear, or flat out wrong, we want to know. See the [contributing](getting-started/) section 
 for more details on how to help out.
 
 ## Motivation
