@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
             }}>
 
             <Link
-                to="/docs/intro">
+                to="/docs/getting-started">
                 <h1
                     style={{
                         fontFamily: 'Outfit',
@@ -83,7 +83,7 @@ export default function Home(): JSX.Element {
                 }}>
                     <Link
                         className="button button--secondary button--lg"
-                        to="/docs/intro">
+                        to="/docs/getting-started">
                         Get Started
                     </Link>
                 </div>
