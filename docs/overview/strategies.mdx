@@ -1,0 +1,48 @@
+---
+sidebar_position: 3
+draft: true
+title: General Tips & Strategies
+---
+
+import useGlobalData from '@docusaurus/useGlobalData';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+
+
+export const Image = () => {
+    const globalData = useGlobalData();
+    const ctx = useDocusaurusContext();
+    console.log(ctx);
+    const theme = document
+                    .getElementsByTagName("html")[0]
+                    .getAttribute("data-theme");
+    console.log(theme)
+    const path = `/img/accuracy_${theme}.png`
+    return (
+        <img src={path}/>
+    )
+}
+
+# General Tips & Strategies
+
+## Keeping focused
+- reading only the task
+- what do I mean by the task? The task is essentially the _question_ part of the question.
+- When you read the task first, you will subconsciously start searching through past experience and recalling ideas that could be helpful. 
+- It also keeps you lazer focused on what matters the most, i.e. what you are looking for.
+
+## Working quickly
+- Working quickly means cutting out steps.
+- cutting out steps takes less energy.
+- fewer chances to go wrong.
+
+
+## Prioritizing
+- you probably only need to be working on a small set of questions.
+
+
+<Image/>
+<img srcSet="" />
+
+
+
+

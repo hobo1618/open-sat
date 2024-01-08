@@ -1,6 +1,5 @@
 ---
 sidebar_position: 1
-draft: true
 ---
 # Test Structure
 
@@ -32,35 +31,10 @@ From the College Board
 > 
 > | Content Domain | Domain Description | Sub-domain | # Questions |
 > | --- | --- | --- | --- |
-> | Craft & Structure | Students will use comprehension, vocabulary, analysis, synthesis, and reasoning skills and knowledge to understand and use high-utility words and phrases in context, evaluate texts rhetorically, and make connections between topically related texts. | Words in Context
-> 
-> Text Structure
-> and Purpose
-> 
-> Cross-Text Connections | ≈28% /
-> 13-15
-> questions |
-> | Information & Ideas | Students will use comprehension, analysis, and reasoning skills and knowledge and the ability to locate, interpret, evaluate, and integrate information and ideas from texts and informational graphics. | Central Ideas
-> and Details
-> 
-> Command of Evidence
->  - Textual
->  - Quantitative
-> 
-> Inferences | ≈26% /
-> 12-14
-> questions |
-> | Standard English Conventions | Students will use editing skills and knowledge to make text conform to core conventions of Standard English sentence structure, usage, and punctuation. | Boundaries
-> 
-> Form, Structure,
-> and Sense | ≈26% /
-> 11-15
-> questions |
-> | Expression of Ideas | Students will use the ability to revise texts to improve the effectiveness of written expression and to meet specific rhetorical goals. | Rhetorical Synthesis
-> 
-> Transitions | ≈20% /
-> 8-12
-> questions |
+> | Craft & Structure | Students will use comprehension, vocabulary, analysis, synthesis, and reasoning skills and knowledge to understand and use high-utility words and phrases in context, evaluate texts rhetorically, and make connections between topically related texts. | Words in Context, Text Structure and Purpose, Cross-Text Connections | ≈28% <br/> 13-15 questions |
+> | Information & Ideas | Students will use comprehension, analysis, and reasoning skills and knowledge and the ability to locate, interpret, evaluate, and integrate information and ideas from texts and informational graphics. | Central Ideas and Details, Command of Evidence <br/> - Textual <br/> - Quantitative <br/> Inferences | ≈26% <br/> 12-14 questions |
+> | Standard English Conventions | Students will use editing skills and knowledge to make text conform to core conventions of Standard English sentence structure, usage, and punctuation. | Boundaries <br/> Form, Structure, and Sense | ≈26% <br/> 11-15 questions |
+> | Expression of Ideas | Students will use the ability to revise texts to improve the effectiveness of written expression and to meet specific rhetorical goals. | Rhetorical Synthesis <br/> Transitions | ≈20% <br/> 8-12 questions |
 
 ## Math Content
 
@@ -90,44 +64,10 @@ From The College Board:
 > 
 > | Content Domain | Domain Description | Sub-domain | # Questions |
 > | --- | --- | --- | --- |
-> | Algebra | Students will analyze, fluently solve, and create linear equations and inequalities as well as analyze and fluently solve equations and systems of equations using multiple techniques. | Linear equations in one variable
-> 
-> Linear equations in two variables
-> 
-> Linear functions
-> 
-> Systems of two linear equations in two variables
-> 
-> Linear inequalities in one or two variables | ≈35% /
-> 13-15
-> questions |
-> | Advanced Math | Students will demonstrate the ability to progress to more advanced math courses, including demonstrating an understanding of absolute value, quadratic, exponential, polynomial, rational, radical, and other nonlinear equations. | Equivalent expressions
-> 
-> Nonlinear equations in one variable and systems of equations in two variables
-> 
-> Nonlinear functions | ≈35% /
-> 13-15
-> questions |
-> | Problem Solving and Data Analysis | Students will apply quantitative reasoning about ratios, rates, and proportional relationships; understand and apply unit rate; and analyze and interpret one- and two-variable data. | Ratios, rates, proportional relationships, and units
-> 
-> Percentages
-> }itional
-> probability
-> 
-> Inference from sample statistics and margin of error
-> 
-> Evaluating statistical claims: observational studies and experiments | ≈15% /
-> 5-7
-> questions |
-> | Geometry and Trigonometry | Students will solve problems that focus on area and volume; angles, triangles, and trigonometry; and circles. | Area and volume
-> 
-> Lines, angles, and triangles
-> 
-> Right triangles and trigonometry
-> 
-> Circles | ≈15% /
-> 5-7
-> questions |
+> | Algebra | Students will analyze, fluently solve, and create linear equations and inequalities as well as analyze and fluently solve equations and systems of equations using multiple techniques. | Linear equations in one variable <br/> Linear equations in two variables <br/> Linear functions <br/> Systems of two linear equations in two variables <br/> Linear inequalities in one or two variables | ≈35% <br/> 13-15 questions |
+> | Advanced Math | Students will demonstrate the ability to progress to more advanced math courses, including demonstrating an understanding of absolute value, quadratic, exponential, polynomial, rational, radical, and other nonlinear equations. | Equivalent expressions <br/> Nonlinear equations in one variable and systems of equations in two variables <br/> Nonlinear functions | ≈35%  <br/> 13-15 questions |
+> | Problem Solving and Data Analysis | Students will apply quantitative reasoning about ratios, rates, and proportional relationships; understand and apply unit rate; and analyze and interpret one- and two-variable data. | Ratios, rates, proportional relationships, and units <br/> <br/> Percentages<br/> Conditional probability <br/> Inference from sample statistics and margin of error <br/> Evaluating statistical claims: observational studies and experiments | ≈15%  <br/> 5-7 questions |
+> | Geometry and Trigonometry | Students will solve problems that focus on area and volume; angles, triangles, and trigonometry; and circles. | Area and volume <br/> Lines, angles, and triangles <br/> Right triangles and trigonometry <br/> Circles | ≈15%  <br/> 5-7 questions |
 
 # Structure
 
@@ -156,9 +96,11 @@ In the SAT students take a total of four modules: two in **Reading & Writing,** 
 
 In the past, the College Board provided score conversion tables, which allowed students to see how raw scores were mapped to scaled scores. With the new format, this is no longer the case, and the relationship between raw scores and scaled scores is not entirely clear. With the information we have, however, the scoring system appears to be similar: one question equates to roughly 5 - 10 points for mid-level scores, and to roughly 10 - 20 points for higher level scores.
 
-Check out the scoring documents attached below for more detail. While these documents don’t directly show how the digital format is scored, they do allow you to score paper-based versions of the new SAT.
+Check out the scoring documents at the link below for more detail. While these documents don’t directly show how the digital format is scored, they do allow you to score paper-based versions of the new SAT.
 
-**Score conversions for paper-based versions of the new digital test**
+[**Score conversions for paper-based versions of the new digital test**](https://satsuite.collegeboard.org/digital/digital-practice-preparation/practice-tests/linear)
+
+
 
 [scoring-sat-practice-test-1-digital.pdf](Structure,%20Scoring,%20Content%20Overview%20a76c8c126fda4a79858a31a784c87cea/scoring-sat-practice-test-1-digital.pdf)
 
@@ -170,14 +112,26 @@ Check out the scoring documents attached below for more detail. While these docu
 
 # Testing Calendar
 
-| SAT Test Date* | Deadline for Registration, Changes, and Regular Cancellation |
-| --- | --- |
-| Mar 11, 2023 | Feb 24, 2023 |
-| May 6, 2023 | Apr 21, 2023 |
-| June 3, 2023 | May 19, 2023 |
-| Late August | Late July |
-| Early October | Early September |
-| Early December | Early November |
+I do my best to keep everything up to date, but
+if you want to be sure you're getting the latest
+info, [click this link](https://satsuite.collegeboard.org/digital/digital-testing/dates-deadlines)
+to see official test dates and deadlines for registration / changes.
+
+## Scheduled
+| SAT Test Date* | Registration Deadline* | Deadline for Registration, Changes, and Regular Cancellation |
+| --- | --- | --- |
+| Mar 9, 2024 | Feb 23, 2024 | Feb 27, 2024
+| May 4, 2024 | Apr 19, 2024 | April 23, 2024 
+| June 1, 2024 | May 16, 2024 | May 21, 2024
+
+
+## Anticipated
+| Test Date |
+| --- |
+| August 24, 2024 |
+| October 5, 2024 |
+| November 2, 2024 |
+| December 7, 2024 |
 
 **For more information on test dates and deadlines, visit this link:**
 
