@@ -9,10 +9,13 @@ import { updateSourceMedia } from '@site/src/utils';
 
 function ColorModeToggle({ className, buttonClassName, value, onChange }) {
 
+    React.useEffect(() => {
+        updateSourceMedia(value)
+    }, [])
+
     const handleModeChange = () => {
         onChange(value === 'dark' ? 'light' : 'dark')
         updateSourceMedia(value === 'dark' ? 'light' : 'dark')
-        console.log("updateSourceMedia")
     }
 
     const isBrowser = useIsBrowser();
