@@ -58,7 +58,7 @@ It’s available on windows and mac (but not linux).
 > 
 > **SOURCE:** 
 > 
-> [digital-sat-test-spec-overview.pdf]()
+> [digital-sat-test-spec-overview.pdf](https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf)
 > 
 
 ## Borrowing a device
@@ -69,7 +69,7 @@ It’s available on windows and mac (but not linux).
 > 
 > **SOURCE:** 
 > 
-> [digital-sat-test-spec-overview.pdf]()
+> [digital-sat-test-spec-overview.pdf](https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf)
 > 
 
 ## Internet Connectivity & Battery Life
@@ -80,7 +80,7 @@ It’s available on windows and mac (but not linux).
 > 
 > **SOURCE:** 
 > 
-> [digital-sat-test-spec-overview.pdf]()
+> [digital-sat-test-spec-overview.pdf](https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf)
 > 
 
 # Common Bugs

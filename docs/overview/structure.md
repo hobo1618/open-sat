@@ -7,7 +7,7 @@ sidebar_position: 1
 
 SOURCE: All content in this section (Content Overview) is taken directly from the college board. I didn’t write any of this, in other words, nor would I want to pretend I did. To read the full document, click the link below:
 
-[digital-sat-test-spec-overview.pdf](Structure,%20Scoring,%20Content%20Overview%20a76c8c126fda4a79858a31a784c87cea/digital-sat-test-spec-overview.pdf)
+[digital-sat-test-spec-overview.pdf](https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf)
 
 ## Reading & Writing Content
 
@@ -96,19 +96,9 @@ In the SAT students take a total of four modules: two in **Reading & Writing,** 
 
 In the past, the College Board provided score conversion tables, which allowed students to see how raw scores were mapped to scaled scores. With the new format, this is no longer the case, and the relationship between raw scores and scaled scores is not entirely clear. With the information we have, however, the scoring system appears to be similar: one question equates to roughly 5 - 10 points for mid-level scores, and to roughly 10 - 20 points for higher level scores.
 
-Check out the scoring documents at the link below for more detail. While these documents don’t directly show how the digital format is scored, they do allow you to score paper-based versions of the new SAT.
+Check out the scoring documents at the following link for more detail. While these documents don’t directly show how the digital format is scored, they do allow you to score paper-based versions of the new SAT.
 
 [**Score conversions for paper-based versions of the new digital test**](https://satsuite.collegeboard.org/digital/digital-practice-preparation/practice-tests/linear)
-
-
-
-[scoring-sat-practice-test-1-digital.pdf](Structure,%20Scoring,%20Content%20Overview%20a76c8c126fda4a79858a31a784c87cea/scoring-sat-practice-test-1-digital.pdf)
-
-[scoring-sat-practice-test-2-digital.pdf](Structure,%20Scoring,%20Content%20Overview%20a76c8c126fda4a79858a31a784c87cea/scoring-sat-practice-test-2-digital.pdf)
-
-[scoring-sat-practice-test-3-digital.pdf](Structure,%20Scoring,%20Content%20Overview%20a76c8c126fda4a79858a31a784c87cea/scoring-sat-practice-test-3-digital.pdf)
-
-[scoring-sat-practice-test-4-digital.pdf](Structure,%20Scoring,%20Content%20Overview%20a76c8c126fda4a79858a31a784c87cea/scoring-sat-practice-test-4-digital.pdf)
 
 # Testing Calendar
 
