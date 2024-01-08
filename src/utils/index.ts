@@ -1,4 +1,4 @@
-const updateSourceMedia = (
+export const updateSourceMedia = (
     colorPreference: 'light' | 'dark'
 ): void => {
     const pictures = document.querySelectorAll('picture')
