@@ -1,16 +1,15 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 draft: true
-title: General Tips & Strategies
+title: Careless Errors
 ---
 
-# General Tips & Strategies
+# Careless Errors
 
-## Careless Errors
+As we saw in the section on [how the SAT converts raw scores to scaled scores](scoring/), just a few mistakes can drammatically lower your score.
+And since you aren't awarded partial credit anywhere, it's critical that you don't lose points on questions you know how to answer.
 
-As we saw in the section on [how the SAT converts raw scores to scaled scores](scoring/)
-
-What is a careless error? 
+## What counts as a careless errors?
 The answer is probably a little more complicated than you think.
 The word _careless_ implies that if you just try a little harder, then you will avoid these mistakes.
 Many students even believe that they will make fewer careless errors on test day because they will be 'more careful'.
@@ -43,7 +42,7 @@ After all, 'careless' errors occur on questions _we already know how to answer_ 
 So almost by definition, these mistakes occur on easy questions.
 
 
-### How does the number of steps per question affect your score?
+## How does the number of steps per question affect your score?
 
 Let's consider an example. 
 Imagine you're a math wiz, and you know how to solve every single question.
@@ -65,9 +64,9 @@ This graph illustrates how the number of steps per question affects your score.
     />
 </picture>
 
-In this scenario, if even if you have a 95% accuracy rate on each step and you solve every problem in one step, you will still make a mistake on about 1 in every 44 questions.
+In this scenario, if even if you have a 95% accuracy rate on each step and you solve every problem in one step, you will still make a mistake on about 2 in every 44 questions.
 And that's fine.
-But notice how quickly your score drops every time you add an average step: about 2 points per add step!
+But notice how quickly your score drops every time you add an average step: about 2 points per added step!
 So even if you know the content very well, you could still wind up with just 34 / 44 raw points in the math.
 Not good!
 
@@ -97,27 +96,9 @@ Just think about some of the other things you can gain from reducing the number 
 5. The techniques that enable you to cut out steps are usually transferable to other questions, especially the hardest questions on the test.
 
 
-
-
-
-
-
-
-
-## Keeping focused
-- reading only the task
-- what do I mean by the task? The task is essentially the _question_ part of the question.
-- When you read the task first, you will subconsciously start searching through past experience and recalling ideas that could be helpful. 
-- It also keeps you lazer focused on what matters the most, i.e. what you are looking for.
-
-## Working quickly
-- Working quickly means cutting out steps.
-- cutting out steps takes less energy.
-- fewer chances to go wrong.
-
-
-## Prioritizing
-- you probably only need to be working on a small set of questions.
-
-
+<!-- ### Examples -->
+<!-- Let's look at some examples of how you can cut out steps. -->
+<!-- We won't be going over the content here, so don't worry if you don't understand the math. -->
+<!-- The objective is to show you how to think about these problems. -->
+<!-- And to showcase how big of difference small optimizations can make when they are compounded. -->
 
