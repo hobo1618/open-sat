@@ -24,14 +24,13 @@ draft: true
 
 ## What calculator should I bring?
 
-Test-takers are allowed a wide variety of calculators, but we recommend that you bring a calculator you are comfortable using, along a backup calculator and batteries, just in case something goes wrong with your main device. 
+To be honest, you don't even have to bring a calculator because the built-in graphics calculator, _desmos_ is so powerful that if you want to use it for entire test, you can.
+That said, you will probably want to bring a back-up calculator for minor calculations.
+
+The College Board allows a wide variety of calculators, but we recommend that you bring a calculator you are comfortable using, along a backup calculator and batteries, just in case something goes wrong with your main device. 
+Or don't. Because you have _desmos_.
 
 For a list of acceptable calculators, [follow this link](https://satsuite.collegeboard.org/sat/what-to-bring-do/calculator-policy)
 
-A great option for a back-up is a super-simple four function calculator with a solar panel, like this one:
-
-<!-- ![null-H-002.xxl3.jpeg](Calculator%20Use%20295f0f61633e48d3ad36c93c06ab7430/null-H-002.xxl3.jpeg) -->
-
-Of course this calculator can’t do anything fancy — but it doesn’t have to, because the college board has included desmos (an online graphing calculator) directly in their testing software (see below for more details).
-
+Did I mention _desmos_. Damn right I did 💪. Read on... 
 

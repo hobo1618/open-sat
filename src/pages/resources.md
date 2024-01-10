@@ -18,7 +18,7 @@ File names match the `id` field in the table below, and file names that end with
 
 
 :::warning
-Something a little whacky appears to have happened when I downloaded the math questions, so some of the formulas come out as phrases. Deal with it :) 
+Something a little wacky appears to have happened when I downloaded the math questions, so some of the formulas come out as phrases. Deal with it :) 
 :::
 
 

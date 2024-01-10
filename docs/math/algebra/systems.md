@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 draft: true
 ---
-# Linear Equations, Models & Systems
+# Solving Systems of Equations
 
-# Main Ideas
+## Main Ideas
 
 :::warning
 ⚠️ The concepts in this topic are mostly simple, but **don’t fool yourself** — many linear-equations questions are really tough, and you have to be really fast and really accurate at applying these ideas if you want to get these harder questions right.
@@ -64,11 +64,11 @@ $$
 
 :::
 
-# Solving linear equations
+## Solving linear equations
 
-## Theory
+### Theory
 
-### Keep the variable positive
+#### Keep the variable positive
 
 Given this equation:
 
@@ -112,7 +112,7 @@ $$
 1=x
 $$
 
-### Skip steps by switching terms
+#### Skip steps by switching terms
 
 One great trick for increasing your speed and accuracy simultaneously is to switch terms. Consider this equation:
 
@@ -172,7 +172,7 @@ $$
 c=\frac{b}{a}
 $$
 
-### Avoid expanding brackets (if possible)
+#### Avoid expanding brackets (if possible)
 
 Many students reflexively expand brackets as a first step — but this is often a tactical mistake. Instead, you should try to rearrange the equation with breaking it up into smaller pieces. For example, give this equation:
 
@@ -224,17 +224,11 @@ $$
 x=3
 $$
 
-## Exercises (TODO)
+### Exercises (TODO)
 
-# Solving linear inequalities (TODO)
+## Slope-intercept form: $y=mx+c$
 
-## Theory
-
-## Exercises
-
-# Slope-intercept form: $y=mx+c$
-
-## Theory
+### Theory
 
 Given the form $y=mx+c$ we can say that m is the slope and c is the y-intercept. 
 
@@ -254,7 +248,7 @@ $$
 m=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}
 $$
 
-## Exercises
+### Exercises
 
 - **Question 1**
     
@@ -431,9 +425,9 @@ $$
         (B)
         
 
-# General form: $ax+by=k$
+## General form: $ax+by=k$
 
-## Theory
+### Theory
 
 The general form of a linear equation is given by:
 
@@ -441,7 +435,7 @@ $$
 ax+by=k
 $$
 
-### Calculating the slope & $y$-intercept
+#### Calculating the slope & $y$-intercept
 
 In this form we can’t simply read the slope of the line from any single constant. Instead we have to do some rearranging:
 
@@ -485,7 +479,7 @@ $$
 7y-5x=10,\\m=-\frac{\left(-5\right)}{7}=\frac{5}{7}\\c=\frac{10}{-5}=-2
 $$
 
-### Real World Modelling Applications (word problems)
+#### Real World Modelling Applications (word problems)
 
 Given an equation in the form $ax+by=k$ , the coefficents $a$ and $b$  typically represent the value of each item, while $x$ and $y$ typically represent the number of each type of item. The constant $k$, therefore, represents the total value of all items. 
 
@@ -557,7 +551,7 @@ Ruth (more rabbits) $-$ Janice (fewer rabbits) = difference (207 rabbits)
 
 $r-j=207$
 
-## Exercises
+### Exercises
 
 - **Question 1**
     
@@ -734,15 +728,15 @@ $r-j=207$
         
     
 
-# Systems of equations
+## Systems of equations
 
-## Theory
+### Theory
 
-### Solving Systems of Equations
+#### Solving Systems of Equations
 
-### Determining the number of solutions
+#### Determining the number of solutions
 
-## Exercises
+### Exercises
 
 - **Question**
     
@@ -775,13 +769,13 @@ $r-j=207$
         4. Subtract the *y-*value from the *x*-value
     
 
-# Solving systems of inequalities (TODO)
+## Solving systems of inequalities
 
-## Theory
+### Theory
 
-## Exercises
+### Exercises
 
-- **Question 1**
+#### Question 1
     
     $$
     y \ge -1 \\ y \le 4x+1
@@ -789,14 +783,24 @@ $r-j=207$
     
     Which of the following ordered pairs (****x, y****) satisfies the system of inequalities? ([Khan Academy](https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-medium/x0fcc98a58ba3bea7:graphs-of-linear-systems-and-inequalities-medium/test/x0fcc98a58ba3bea7:algebra-medium-unit-test?referrer=upsell))
     
-    1. (−4, 2)
-    2. (0, 4)
-    3. (2, −2)
-    4. (2, 4)
+    <ol type="A">
+        <li>(−4, 2)</li>
+        <li>(0, 4)</li>
+        <li>(2, −2)</li>
+        <li>(2, 4)</li>
+    </ol>
     
+    <br/>
+    <details>
+
+        <summary>
+            Solution
+        </summary>
+
     - **Solution**
         1. Graph the inequalities in desmos.
         2. Plot the points in desmos
         3. See which point lies in the doubly shaded area.
             
             [https://www.desmos.com/calculator/isxdvy4uo8](https://www.desmos.com/calculator/isxdvy4uo8)
+    </details>
