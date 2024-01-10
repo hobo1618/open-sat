@@ -1,14 +1,30 @@
 ---
 title: Resources
-draft: true
 ---
 
 # Resources
+## About the sets
 
-Questions from the college board question bank.
+All these questions are official SAT(R) questions downloaded fromthe college board question bank, a free resource for teachers to use with their students. 
+The quality can be pretty iffy on some of the pdfs, but the material is straight from the source, so you can rest assured these questions are representative of what you'll find on the real test.
+
+:::warning
+Spoiler alert: some of the questions in the database appear on bluebook mock tests! 
+Most of the questions, though, appear to be sourced from elsewhere, either from the old SAT, the new linear test, or newly created sets, so for the most part you won't encounter too many duplicates. 
+:::
+
+Here's a link to a [google drive folder](https://drive.google.com/drive/folders/1DJq0vfVwo7_1turSr94_WMZon8KcfMDW?usp=sharing).
+File names match the `id` field in the table below, and file names that end with the letter `a` are the answers and explanations for that set.
 
 
-| **id** | **difficulty** | **Section**    | **domain**                        | **skill**                                                                     | **num_questions** |
+:::warning
+Something a little whacky appears to have happened when I downloaded the math questions, so some of the formulas come out as phrases. Deal with it :) 
+:::
+
+
+## Question Sets
+
+| **id** | **difficulty** | **Section**    | **domain**                        | **skill**                                                                     | **#Qs**           |
 |--------|----------------|----------------|-----------------------------------|-------------------------------------------------------------------------------|-------------------|
 | 0      | easy           | Math           | Algebra                           | Linear equations in one variable                                              | 36                |
 | 1      | medium         | Math           | Algebra                           | Linear equations in one variable                                              | 16                |
