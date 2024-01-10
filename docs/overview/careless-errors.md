@@ -6,7 +6,7 @@ title: Careless Errors
 
 # Careless Errors
 
-As we saw in the section on [how the SAT converts raw scores to scaled scores](scoring/), just a few mistakes can drammatically lower your score.
+As we saw in the section on [how the SAT converts raw scores to scaled scores](structure#scoring), just a few mistakes can drammatically lower your score.
 And since you aren't awarded partial credit anywhere, it's critical that you don't lose points on questions you know how to answer.
 
 ## What counts as a careless errors?

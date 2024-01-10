@@ -89,6 +89,7 @@ const config: Config = {
                     label: 'Learn',
                 },
                 { to: '/blog', label: 'Blog', position: 'left' },
+                { to: '/resources', label: 'Resources', position: 'left' },
                 {
                     href: 'https://github.com/hobo1618/open-sat',
                     label: 'GitHub',
