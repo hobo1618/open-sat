@@ -13,6 +13,62 @@ title: Applications
 
 ## Solving 1-variable equations
 
+### Single Line
+
+If you try graphing $x=5$ into desmos, what will the graph look like?
+
+<ol type="A">
+    <li>A vertical line</li>
+    <li>A horizontal line</li>
+    <li>A downward sloping line</li>
+    <li>An upward sloping line</li>
+</ol>
+
+<DesmosDetails />
+
+You should have found, if you didn't know it already, that the equation $x=3$ will produce a **vertical** line where every $x$ value is equal to $3$.
+This makes sense because the statement $x=3$ plots all points where the $x$-coordinate of the line is $3$.
+
+But how does this help us solve equations? Well now try graphing $10 - x = 7$ . What do you get?
+
+<ol type="A">
+    <li>A vertical line</li>
+    <li>A horizontal line</li>
+    <li>A downward sloping line</li>
+    <li>An upward sloping line</li>
+</ol>
+
+
+Try it yourself to confirm your answer.
+
+<DesmosDetails />
+
+You should have gotten another vertical line, again where $x$ is equal to $3$.
+This is because the only value of $x$ that satisfies the equation is $3$, so just like before desmos plots all points on the plane where the $x$-coordinate is equal to $3$.
+In other words, *desmos has solved the equation for us* 🤔😲🤯 
+
+And while this may not seem useful for the equation $10-x=7$, try solving this by hand:
+
+$$ 
+
+\frac{7-2\left(6-x\right)}{3}+\frac{\left(x-3\right)-2\left(x+8\right)}{5}=\frac{-x-\left(-2+5\right)}{7}
+
+$$
+
+Probably not much fun.
+And probably really easy to make a mistake with the algebra.
+Just look at all those negatives. 
+
+Desmos, on the other hand, makes this sort of equation easy. 
+Try typing the whole thing into desmos to see if you get the right answer.
+
+<DesmosDetails summary="Solution" id="zmjidgxcoj"/>
+
+
+
+
+### Two lines
+
 
 ## Solving systems of equations
 
@@ -42,10 +98,13 @@ $$
 $$
 
 1. Which expression is equivalent to the given product for all $r \gt 6$ ?
-    1. $\frac{3\pi^{2}a^{7}}{10r}$
-    2. $\frac{5a}{216r^{5}}$
-    3. $\frac{3\pi^{2}a^{7}}{10}$
-    4. $\frac{216r^{5}}{5a}$
+
+<ol type='A'>
+    <li> $\frac{3\pi^{2}a^{7}}{10r}$ </li>
+    <li> $\frac{5a}{216r^{5}}$ </li>
+    <li> $\frac{3\pi^{2}a^{7}}{10}$ </li>
+    <li> $\frac{216r^{5}}{5a}$ </li>
+</ol>
     
     - **Solution**
         
@@ -75,25 +134,32 @@ $$
 -1=3(x+2)^{2}+2(x+2)-3
 $$
 
-and solve from there. Sure, it’ll work, but using desmos makes this trivially easy:
+and solve from there.
+Desmos, on the other hand, makes this problem trivially easy.
 
-<iframe width="99%" height="500px" src="https://www.desmos.com/calculator/lajpemppqo"/>
+<DesmosDetails />
+<DesmosDetails id="lajpemppqo" summary="Solution" />
 
 ## Exercises
 
 Solving the following problems using the desmos app, **even if it’s not the most efficient method**. 
-- **Question 1**
+
+### Question 1
     
     Which expression is equivalent to $x^2+3x-40$ ?
     
-    1. $(x-4)(x+10)$
-    2. $(x-5)(x+8)$
-    3. $(x-8)(x+5)$
-    4. $(x-10)(x+4)$
+<ol type='A'>
+    <li> $(x-4)(x+10)$ </li>
+    <li> $(x-5)(x+8)$ </li>
+    <li> $(x-8)(x+5)$ </li>
+    <li> $(x-10)(x+4)$ </li>
+</ol>
+
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> B </details>
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
-- **Question 2**
+### Question 2
     
     $$
     \frac{55}{x+6}=x
@@ -101,9 +167,11 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     
     What is the positive solution to the given equation?
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> 5 </details>
+
     
-- **Question 3**
+### Question 3
     
     $$
     g\left(x\right)=11\left(\frac{1}{2}\right)^{x}
@@ -111,25 +179,33 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     
     If the given function $g$ is graphed in the $xy$-plane, where $y=g(x)$, what is the $y$-intercept of the graph?
     
-    1. $(0,11)$
-    2. $(0,132)$
-    3. $(0,1)$
-    4. $(0,12)$
+<ol type='A'>
+    <li> $(0,11)$ </li>
+    <li> $(0,132)$ </li>
+    <li> $(0,1)$ </li>
+    <li> $(0,12)$ </li>
+</ol>
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> A </details>
+
     
-- **Question 4**
+### Question 4
     
     A rectangle has a length of of $x$ units and a width of $(x-15)$ units. If the rectangle has an area of $154$ square units, what is the value of $x$?
     
-    1. $7$
-    2. $22$
-    3. $29$
-    4. $154$
+<ol type='A'>
+    <li> $7$ </li>
+    <li> $22$ </li>
+    <li> $29$ </li>
+    <li> $154$ </li>
+</ol>
+
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> B </details>
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
     
-- **Question 5**
+### Question 5
     
     $$
     7x+2y=4 \\
@@ -138,14 +214,18 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     
     The solution to the system of equations is $(x, y)$. What is the value of $y$ ?
     
-    1. $-5$
-    2. $2$
-    3. $14$
-    4. $18$
+<ol type='A'>
+    <li> $-5$ </li>
+    <li> $2$ </li>
+    <li> $14$ </li>
+    <li> $18$ </li>
+</ol>
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> A </details>
+
     
-- **Question 6**
+### Question 6
     
     $$
     f\left(x\right)=4x^{2}-20x+144
@@ -153,26 +233,35 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     
     The given equation defines the function $f$. For what value of $x$ does $f(x)$ reach its minimum?
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> 2.5 </details>
     
-- **Question 7**
+### Question 7
     
     The expression $\frac{24}{6x+42}$ is equivalent to $\frac{4}{x+b}$ , where $b$ is a constant and $x>0$. What is the value of $b$ ?
     
-    1. $7$
-    2. $10$
-    3. $24$
-    4. $252$
+<ol type='A'>
+    <li> $7$ </li>
+    <li> $10$ </li>
+    <li> $24$ </li>
+    <li> $252$ </li>
+</ol>
+
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> A </details>
     
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
-    
-- **Question 8**
+### Question 8
     
     The function $f$ is defined by $f(x)=x^3+12$. What is the value of $f(3)$?
     
-    1. $18$
-    2. $21$
-    3. $36$
-    4. $39$
-    
-<iframe width="100%" height="500px" src="https://www.desmos.com/calculator"/>
+<ol type='A'>
+    <li> $18$ </li>
+    <li> $21$ </li>
+    <li> $36$ </li>
+    <li> $39$ </li>
+</ol>
+
+<DesmosDetails summary="Use desmos to solve the problem" />
+<details><summary>Solution</summary> D </details>
+
+
