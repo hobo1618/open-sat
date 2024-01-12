@@ -1,6 +1,5 @@
 ---
-sidebar_position: 1
-draft: true
+sidebar_position: 3
 title: Applications
 ---
 # Applications
