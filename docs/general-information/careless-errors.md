@@ -8,7 +8,7 @@ title: Careless Errors
 As we saw in the section on [how the SAT converts raw scores to scaled scores](structure#scoring), just a few mistakes can drammatically lower your score.
 And since you aren't awarded partial credit anywhere, it's critical that you don't lose points on questions you know how to answer.
 
-## What counts as a careless errors?
+## What counts as a careless error?
 The answer is probably a little more complicated than you think.
 The word _careless_ implies that if you just try a little harder, then you will avoid these mistakes.
 Many students even believe that they will make fewer careless errors on test day because they will be 'more careful'.
