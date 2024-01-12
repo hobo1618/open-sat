@@ -83,10 +83,6 @@ It’s available on windows and mac (but not linux).
 > [digital-sat-test-spec-overview.pdf](https://satsuite.collegeboard.org/media/pdf/digital-sat-test-spec-overview.pdf)
 > 
 
-# Common Bugs
-
-<!-- ![image (2).png]() -->
-
 # Keyboard Shortcuts
 
 | Action | PC | Chromebook | Mac | iPad |
