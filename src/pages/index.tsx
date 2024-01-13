@@ -6,6 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+// import ColorModeToggle from '../theme/ColorModeToggle';
 
 function HomepageHeader() {
     const { siteConfig } = useDocusaurusContext();
@@ -25,12 +26,25 @@ export default function Home(): JSX.Element {
                 flexDirection: 'column',
                 height: '100vh',
                 alignItems: 'center',
+                position: 'relative',
                 // justifyContent: 'space-between',
                 width: '100vw',
                 gap: '4rem',
                 padding: '4rem',
             }}>
 
+            {
+
+            // TODO: #darkmode doesn/'t work probably due to SSR or related
+            // <span style={{
+            //     position: 'absolute',
+            //     padding: '1rem',
+            //     top: '0',
+            //     right: '0',
+            // }}>
+            //     <ColorModeToggle />
+            // </span>
+            }
             <h1
                 style={{
                     fontFamily: 'Outfit',

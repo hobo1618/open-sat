@@ -7,11 +7,12 @@ title: Getting Started
 
 I've been teaching the SAT for 10 years.
 With this website I aim to document everything I've learned along the way.
-But this isn't about me.
 I hope that this will eventually become the go to resource for SAT tricks and strategies, and I hope that you will help that become a reality.
 
-This is an open source project and contributions are always welcome. That could be contributions to the codebase as well as contributions to the educational content. 
-If something is poorly worded, unclear, or flat out wrong, let me know. See the [contributing](getting-started#contributing) section for more details on how to help out.
+This is an open source project and contributions are always welcome.
+That could mean contributions to the codebase as well as contributions to the educational content. 
+If something is poorly worded, unclear, or flat out wrong, let me know.
+See the [contributing](getting-started#contributing) section for more details on how to help out.
 
 ## Motivation
 

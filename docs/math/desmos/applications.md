@@ -4,15 +4,11 @@ title: Applications
 ---
 # Applications
 
-## Main Ideas
+## Finding Solutions
 
-:::danger
-**The built in version of desmos doesn’t allow you to copy paste**, so getting fast at typing math is a must!**.**
-:::
+### Solving 1-variable equations
 
-## Solving 1-variable equations
-
-### Single Line
+#### Entering your equation into a single desmos line
 
 If you try graphing $x=5$ into desmos, what will the graph look like?
 
@@ -63,18 +59,68 @@ Try typing the whole thing into desmos to see if you get the right answer.
 
 <DesmosDetails summary="Solution" id="zmjidgxcoj"/>
 
+Did you get it right? 
 
+Notice for this equation you had to click on the $x$-intercept to get the decimals because the solution isn't an integer.
+So is this ok?
+Are there enough decimal places in the solution desmos gives me?
+Yes.
+Thankfully.
+In fact, desmos gives you _exactly_ the number of digits you need to provide for grid-in questions.
+So if the answer isn't an obvious integer, just click the $x$-intercept and desmos will usually show you the decimals to enter into the system.
 
+_Usually?_
 
-### Two lines
+Yes, usually it works. But sometimes it doesn't.
+For example, try using the approach above to solve this equation:
 
+$$\frac{10}{x}=5$$
 
-## Solving systems of equations
+<DesmosDetails id="3hxwnnwxo2" summary="try clicking on the solution. Does it work?" />
+
+From looking at the equation and the solution on the graph it seems pretty obvious that the answer is $2$, but why can't we click it to see the actual value?
+
+I don't know why, exactly, but it has to do with how desmos parses and computes different types of equations.
+For linear and quadratic equations, desmos will always allow you to click the solution.
+For anything else, you will need to take a slightly different approach.
+
+:::info
+linear and quadratic equations with one variable are solvable on one desmos line.
+:::
+:::warning
+other types of equations, such as radical or rational equations, are not solvable on one desmos line.
+:::
+
+#### Entering your equation into two desmos lines
+There is an easy workaround, thankfully.
+
+Instead of entering your equation into a single desmos input, try splitting it into two halves and entering it into desmos like so:
+
+| input field | equation |
+| --- | --- |
+| line 1 | $$y=\frac{10}{x}$$ | 
+| line 2 | $$y=5$$ |
+
+Can you find the solution to equation on the graph?
+
+<DesmosDetails />
+
+<DesmosDetails id="sceohq9it3" summary="Solution" />
+
+This is a really important concept, particularly when it comes to [determining the number of solutions to a given equation or system](#determining-the-number-of-solutions). Learn it well.
+
+### Solving systems of equations
+
+### Exercises
+
+[exercises](https://drive.google.com/file/d/18vpgN_T2vvRdTvDSatn-mIv8HP-mF1TT/view?usp=drive_link)
+
+[answers](https://drive.google.com/file/d/15BOMWhOLdyKp2uVLWcb-YJ106ayL52cG/view?usp=drive_link)
 
 
 ## Determining the number of solutions
 
-### Linear equations
+#### Linear equations
 
 <iframe width="100%" height="500px" src="https://www.desmos.com/calculator/xut7zdrwtx"/>
 
