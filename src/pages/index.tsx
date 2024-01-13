@@ -55,7 +55,7 @@ export default function Home(): JSX.Element {
                 width: '100%',
                 height: '100%',
             }}>
-                <a>
+                <a href="/docs/getting-started">
                     <img src='/img/smiley.png' />
                 </a>
                 <div>
