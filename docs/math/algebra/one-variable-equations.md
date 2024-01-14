@@ -170,7 +170,5 @@ $$
 x=3
 $$
 
-## Solving directly for an expression
-
 ## Exercises 
 

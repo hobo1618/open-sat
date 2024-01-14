@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: Solution Sets
+draft: true
 ---
 # Solution Sets to Equations and Systems
 

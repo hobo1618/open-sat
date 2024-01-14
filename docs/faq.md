@@ -75,3 +75,6 @@ Unless you fiddle the numbers. For example, if you use your first PSAT as a base
 
 ## Am I allowed scrap paper?
 Yes.
+
+## Do I have to answer the college board's silly questions when I register?
+No.
