@@ -10,7 +10,7 @@ There are 3 types of boundaries questions:
 
 1. **Verb activation questions** (as opposed to conjugation and verb agreement questions) will include only one answer choice with an active verb (*runs*), and three answer choices with inactive verbs (*to run, running, having run*).
 2. **Punctuation questions** require you to choose between a *semicolon*, *colon*, *dash*, and *comma*.
-3. **Relative pronoun questions** will include at least one answer choice with *which, that,* or *who,* and at least one answer choice **without** *which, that* or *who.*
+3. **Connectors and demotion** questions will include at least one answer choice with *which, that,* or *who,* and at least one answer choice **without** *which, that* or *who.*
 
 We'll look at all three of these types,
 how to identify which type you're dealing with,
@@ -27,48 +27,48 @@ In technical terms, a full sentence must contain at least one independent clause
 
 | Clause | Complete? |
 | --- | --- |
-| it is blue. | yes |
-it was blue. | yes |
-It will be blue. | yes |
-it has been blue. | yes |
-It will have been blue | yes |
-it had been blue | yes |
-It being blue. | yes |
-it having been blue. | yes |
-It to be blue. | yes |
-You walk. | yes |
-You walked. | yes |
-You will walk. | yes |
-You have been walking. | yes |
-You will have been walking. | yes |
-You had been walking.  | yes |
-You walking. | yes |
-You having walked. | yes |
-You to walk | yes |
-The woman running for President is rich. | yes |
-The woman running for President was rich. | yes |
-The woman running for President will be rich. | yes |
-The woman running for President has been rich. | yes |
-The woman running for President will have been rich. | yes |
-The woman running for President had been rich. | yes |
-The woman running for President. | yes |
-The woman to run for President. | yes |
-The woman running for President being rich. | yes |
-The woman running for President to be rich. | yes |
-I like cats. | yes |
-Because I like cats.  | yes |
-Because I like cats, I own several. | yes |
-The car which is blue. | yes |
-The car is blue. | yes |
-The car, which is blue, is very fast. | yes |
-This is good. | yes |
-It is blue. | yes |
-Running for the bus | yes |
-I was running for the bus. | yes |
-Running for the bus | yes |
-Running for the bus makes you sweat. | yes |
-Running for the bus | yes |
-Running for the bus, Bob got tired. | yes |
+| it is blue | yes |
+| it was blue | yes |
+| it will be blue | yes |
+| it has been blue. | yes |
+| It will have been blue | yes |
+| it had been blue | yes |
+| It being blue. | yes |
+| it having been blue. | yes |
+| It to be blue. | yes |
+| You walk. | yes |
+| You walked. | yes |
+| You will walk. | yes |
+| You have been walking. | yes |
+| You will have been walking. | yes |
+| You had been walking.  | yes |
+| You walking. | yes |
+| You having walked. | yes |
+| You to walk | yes |
+| The woman running for President is rich. | yes |
+| The woman running for President was rich. | yes |
+| The woman running for President will be rich. | yes |
+| The woman running for President has been rich. | yes |
+| The woman running for President will have been rich. | yes |
+| The woman running for President had been rich. | yes |
+| The woman running for President. | no |
+| The woman to run for President. | no |
+| The woman running for president being rich. | no |
+| The woman running for president to be rich. | no |
+| I like cats. | yes |
+| Because I like cats. | no |
+| I adopted a cat because I like cats. | yes |
+| Because I like cats, I own several. | yes |
+| The car which is blue. | no |
+| The car is blue. | yes |
+| The car, which is blue, is very fast. | yes |
+| This is good. | yes |
+| I was running for the bus. | yes |
+| I like running. | no |
+| Running for the bus | yes |
+| Running for the bus makes you sweat. | yes |
+| Running for the bus | yes |
+| Running for the bus, Bob got tired. | yes |
 
 If you find you’re having difficulty telling the difference, I recommend you try reading outloud more often, listening for the main verb or verbs in a sentence. You can also consult a more traditional grammar resource, but I would not recommend that you get lost in grammar rules. If you are generally getting these questions right, you shouldn’t waste time learning the details of grammar — you’ll find it’s way too much information for the SAT and almost certainly not helpful.
 
@@ -228,14 +228,22 @@ are both incorrect because the left hand side is a fragment.
 
 If you are given these answer choices, therefore
 
-> <ol type="A">
->     <li>pickles;</li>
->     <li>pickles.</li>
->     <li>pickles,</li>
->     <li>pickles—</li>
-> </ol>
 
-you can safely delete answer choices (A) and (B). They cannot both be right so they must both be wrong!
+<details>
+    <summary>
+    Given these four answer choices, what can you conclude?
+    > <ol type="A">
+    >     <li>pickles;</li>
+    >     <li>pickles.</li>
+    >     <li>pickles,</li>
+    >     <li>pickles—</li>
+    > </ol>
+    </summary>
+
+    You can safely delete answer choices (A) and (B). They cannot both be right so they must both be wrong!
+</details>
+
+
 
 ### Important Exception
 
@@ -255,9 +263,6 @@ To make this clearer, let’s add semicolons between items:
 
 ### Colons
 
-:::danger
-⛔ Yes, colons are good at introducing lists, but **DON’T FALL FOR THIS COMMON TRAP**: colons must still have a full sentence on their LHS even they are introducing a list. **If the LHS isn’t a complete sentence, the colon is simply wrong**.
-:::
 
 **Colons must have an independent clause on their LHS**. On their RHS they can have either a fragment or a full sentence. All of these sentences, therefore
 
@@ -280,6 +285,10 @@ These examples, meanwhile,
 > *❌ I love films such as: horrors, comedies, and romances*
 
 are all incorrect because the LHS of each colon does not form a complete sentence. But wait — aren’t colons good for introducing lists?
+
+:::danger
+⛔ Yes, colons are good at introducing lists, but **DON’T FALL FOR THIS COMMON TRAP**: colons must still have a full sentence on their LHS even they are introducing a list. **If the LHS isn’t a complete sentence, the colon is simply wrong**.
+:::
 
 To fix these:
 
@@ -343,8 +352,15 @@ are all incorrect because the LHS of each colon does not form a complete sentenc
     
 
 ### Commas
+Commas are tricky in English. In this short section we’ll be looking **ONLY** at the rules governing comma usage between clauses.
 
-Commas are tricky in English. In this short section we’ll be looking **ONLY** at the rules governing comma usage between clauses. The basic rule is that a comma **cannot** join two complete sentences. These sentences, therefore,
+Is this correct?
+
+> ? I like cats, they are fluffy.
+
+No. This is what's known as a *run-on* or *comma splice*.
+
+The basic rule is that a comma **cannot** join two complete sentences. These sentences, therefore,
 
 :::info
 ℹ️ When two full sentences are incorrectly joined with a comma, we call this a *comma splice* or *run-on sentences*.
