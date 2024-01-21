@@ -263,7 +263,6 @@ To make this clearer, let’s add semicolons between items:
 
 ### Colons
 
-
 **Colons must have an independent clause on their LHS**. On their RHS they can have either a fragment or a full sentence. All of these sentences, therefore
 
 > ✅ *I quit for a good reason: my boss was evil.*
@@ -341,12 +340,38 @@ are all incorrect because the LHS of each colon does not form a complete sentenc
     > *I was bored at the wedding—so I went home.*
     
     Both options have a complete sentence on their LHS, so what’s the right answer here? The key here is that colons are very rarely followed by conjunctions (words like *so, and, but, because*) whereas this isn’t a problem with dashes. 
+
+In fact, there are few standard forms that just don't fit with a colon:
+
+    *ing* forms are no good after a colon
+    > *I studied all night: hoping to get a good grade.*
+
+    *conjuctions* are no good either
+    > *I studied all night: because I wanted to get a good grade.*
+    > *I was bored at the wedding: so I went home.*
+
+    *relative pronouns* don't work:
+    > * I bought an expensive car: which broke down after a day.*
+
+In fact, there are few standard forms that just don't fit with a colon:
+
+    > *ing* forms are no good after a colon
+    > *I studied all night— hoping to get a good grade.*
+
+    > *conjuctions* are no good either
+    > *I studied all night—because I wanted to get a good grade.*
+    > *I was bored at the wedding—so I went home.*
+
+    > *relative pronouns* don't work
+    > * I bought an expensive car—which broke down after a day.*
     
 2. *Dashes can come in pairs*
     
     Dashes, unlike colons, can sometimes come in pairs. In other words, you might find a sentence with two dashes in it, like this one:
     
+    > ✅ *Bob (my best friend) is French.*
     > ✅ *Bob—my best friend—is French.*
+    > ✅ *Bob, my best friend, is French.*
     
     This sentence is correct because the dashes are being used as brackets, so rule about how a dash must have a complete sentence on its left no longer applies.
     
