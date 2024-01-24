@@ -1,808 +1,412 @@
 ---
-title: Boundaries
+draft: true
 ---
 
-# Boundaries
+# Commas & Company
 ## Introduction
-These questions require you to understand whether a sentence is complete or not, and to decide how to fill in the blank based on your assessment.
-
-There are 3 types of boundaries questions: 
-
-1. **Verb activation questions** (as opposed to conjugation and verb agreement questions) will include only one answer choice with an active verb (*runs*), and three answer choices with inactive verbs (*to run, running, having run*).
-2. **Punctuation questions** require you to choose between a *semicolon*, *colon*, *dash*, and *comma*.
-3. **Connectors and demotion** questions will include at least one answer choice with *which, that,* or *who,* and at least one answer choice **without** *which, that* or *who.*
-
-We'll look at all three of these types,
-how to identify which type you're dealing with,
-what rules you need to know, 
-and what the common traps are in each category.
-
-But first, we need to talk about your ear.
-
-## Complete or Incomplete?
-
-In technical terms, a full sentence must contain at least one independent clause, but I generally wouldn't advise that you use spend a lot of time searching for subjects and verbs to assess whether a sentence is complete or not. In my experience the best approach is to simply trust your ear. 
-
-**Here are some examples**
-
-| Clause | Complete? |
-| --- | --- |
-| it is blue | yes |
-| it was blue | yes |
-| it will be blue | yes |
-| it has been blue. | yes |
-| It will have been blue | yes |
-| it had been blue | yes |
-| It being blue. | yes |
-| it having been blue. | yes |
-| It to be blue. | yes |
-| You walk. | yes |
-| You walked. | yes |
-| You will walk. | yes |
-| You have been walking. | yes |
-| You will have been walking. | yes |
-| You had been walking.  | yes |
-| You walking. | yes |
-| You having walked. | yes |
-| You to walk | yes |
-| The woman running for President is rich. | yes |
-| The woman running for President was rich. | yes |
-| The woman running for President will be rich. | yes |
-| The woman running for President has been rich. | yes |
-| The woman running for President will have been rich. | yes |
-| The woman running for President had been rich. | yes |
-| The woman running for President. | no |
-| The woman to run for President. | no |
-| The woman running for president being rich. | no |
-| The woman running for president to be rich. | no |
-| I like cats. | yes |
-| Because I like cats. | no |
-| I adopted a cat because I like cats. | yes |
-| Because I like cats, I own several. | yes |
-| The car which is blue. | no |
-| The car is blue. | yes |
-| The car, which is blue, is very fast. | yes |
-| This is good. | yes |
-| I was running for the bus. | yes |
-| I like running. | no |
-| Running for the bus | yes |
-| Running for the bus makes you sweat. | yes |
-| Running for the bus | yes |
-| Running for the bus, Bob got tired. | yes |
-
-If you find you’re having difficulty telling the difference, I recommend you try reading outloud more often, listening for the main verb or verbs in a sentence. You can also consult a more traditional grammar resource, but I would not recommend that you get lost in grammar rules. If you are generally getting these questions right, you shouldn’t waste time learning the details of grammar — you’ll find it’s way too much information for the SAT and almost certainly not helpful.
-
-
-## Type 1: Activating the Verb
-
-Complete sentences in English must have at least one active verb. The SAT tests this concept with questions in this structure:
-
-*Running for the bus, Bob ___________ on a banana peal.*
+These questions require you to understand how commas interact with other commas and certain types of phrases in a sentence. 
+They can be tricky to solve, but they are easy to identify:
 
 > <ol type="A">
->     <li>*slipping*</li>
->     <li>*to slip*</li>
->     <li>*slipped*</li>
->     <li>*having slipped*</li>
+>     <li>*cars, but Bob,* </li>
+>     <li>*cars but Bob,* </li>
+>     <li>*cars, but Bob* </li>
+>     <li>*cars but Bob* </li>
 > </ol>
 
 <details>
     <summary>
-        Solution
+        What is the only thing that changes between the answer choices?
     </summary>
 
-    The correct answer here is (C) because it is the only option that forms a complete sentence: 
+    These questions are easily identifiable because the answer choices will be identical except for the comma placement.
 
-    > *Running for the bus, Bob slipped on a banana peal.*
-
-    The verb *to slip* is only active if it is conjugated, which generally means it must have *a subject*. In the case above, *Bob* is the subject, i.e. *Bob* performed the action (Bob *slipped*.)
 </details>
 
 
-### Identification 
+There are 2 types of comma questions: 
 
-Verb activation questions (as opposed to conjugation and verb agreement questions) will include only one answer choice with an active verb (*runs*, for example), and three answer choices with inactive verbs (*to run, running, having run,* for example).
+1. **Interruptive syntax questions** require you to identify the conjugated verbs and their respective subjects.
+2. **Restrictive clause questions** require you to understand which ideas are tightly connected.
 
-Say you are given these four answer choices:
+The first type is fairly straightforward (though not always easy).
+The second type, however, has all sorts of little nuances to it.
+But both are manageable.
 
-<ol type="A">
-    <li>*smoke*</li>
-    <li>*to smoke*</li>
-    <li>*smoking*</li>
-    <li>*being smoked*</li>
-</ol>
+Avanti.
 
-Only one option contains an active (conjugated) verb ⇒ answer choice (A). This means that the question is asking you to identify whether or not we want to have an active verb here. And most of the time, the active verb option will be the correct one <span>&mdash;</span> although you should always actually read the sentence carefully.
+## Type 1: Interruptive Syntax 
 
-### Listening for the active verb
+### Parenthetical phrases
 
-These questions are typically on the easier end of the spectrum, and you should trust your ear to tell you what is or isn’t a complete sentence. 
+Before we get to the main idea, we need to cover parenthetical phrases.
 
-### Exercises
+Commas have many purposes. One of these is to mark the start and end of a *parenthetical phrase,* phrases which can be removed from the sentence without altering its core structure. We call these phrases parenthetical phrases because you can think of them as “being between brackets”. In this sentence, for example, 
 
-*Question 1*
-    
-> Some people buy organic food because they believe organically grown crops are more nutritious and safer for consumption than their conventionally grown counterparts, which are usually produced with pesticides and synthetic fertilizers. In the name of health, _______ $1.60 for every dollar they would have spent on food that is conventionally grown.
-> <ol type="A">
->     <li>spending</li>
->     <li>these consumers spend</li>
->     <li>having spent</li>
->     <li>to spend</li>
-> </ol>
+> *Running for the bus*, I slipped.
 
-<details>
-    <summary>
-        Solution
-    </summary>
-The correct answer is (B) because it’s the only option with a subject (*these consumers*) and an active verb (*spend*). 
-</details>
+The phrase *running for the bus* is a parenthetical phrase because it can be removed without altering the main structure of the text:
+
+> ~Running for the bus,~ I slipped. 
+
+*I slipped* is still a complete sentence without the parenthetical phrase *running for the bus.*
+
+#### Placement
+
+Parenthetical phrases can occur at the start of a sentence,
+
+> *Running for the bus*, I slipped.
+
+in the middle of a sentence,
+
+> Bob, **************my best friend,* is from France.
+
+or at the end of a sentence,
+
+> This is Bob, *my best friend.*
+
+**********************************************Multiple Parentheticals**********************************************
+
+#### Multiple parentheticals
+We can also have multiple parenthetical phrases in a single sentence, such as this one:
+
+Running for the bus, Bob, my best friend, slipped, eliciting gasps from his fellow pedestrians.
+
+Can you spot all the parenthetical phrases?
+
+Here’s the sentence again, this time with the parenthetical phrases italicized and colored red:
+
+✅ *Running for the bus,* Bob*, my best friend,* slipped, ***causing everyone at the bus stop to gasp***.
+
+Notice we cannot remove ***Bob*** or *******slipped******* as these form the core of the sentence. The parenthetical phrases, meanwhile, can be removed. And while we do lose details, the basic meaning of the sentence—the fact that Bob slipped—hasn’t changed.
+
+When we remove parentheticals, therefore, we must be careful ********************************not to remove the subject or the verb from the sentence.******************************** In other words, not all phrases between commas are parenthetical phrases. 
 
 
-        
-        
-    
-*Question 2*
+:::warning
+⚠️ When we remove parentheticals we must be careful ********************************not to remove the subject or the verb from the sentence.******************************** In other words, not all phrases between commas are parenthetical phrases. 
 
-> Explaining his company’s decision to expand its tuition-assistance program, John Fox, the director of dealer training at Fiat Chrysler Automobiles in the United States, ____________ the importance of drawing skilled employees to Fiat Chrysler’s car dealerships: “This is a benefit that can surely bring top talent to our dealers,” he said.
-> <ol type="A">
->     <li>who stressed</li>
->     <li>stressed</li>
->     <li>stressing</li>
->     <li>and he stressed</li>
-> </ol>
-<details>
-    <summary>
-        Solution
-    </summary>
-    The correct answer is (B)  because it’s the only option with an active verb (*stressed*). 
-</details>
-        
-    
-
-## Type 2: Punctuation
-
-### Identification
-Identifying these questions is pretty easy.
-In short, Boundaries>Punctuation questions require you to choose between:
-> <ol type="A">
->     <li>semicolon</li>
->     <li>colon</li>
->     <li>dash</li>
->     <li>comma</li>
-> </ol>
-
-If you have to choose between any 2 out of 4 of these punctuation marks,
-then you are dealing with a Boundaries>Punctuation question,
-and you are in the right place.
-
-The rules for joining clauses with punctuation are generally not taught in school, so even proficient English speakers struggle with these questions at first.
-The good news is that the rules are simple enough to learn and generally easy to apply.
-Here’s a simplified example of boundaries question with punctuation:
-
-> Hoping to get a good ______ I studied every day.
-> 
-> <ol type="A">
->     <li>grade,</li>
->     <li>grade;</li>
->     <li>grade—</li>
->     <li>grade:</li>
-> </ol>
-<details>
-    <summary>
-        Solution
-    </summary>
-    The correct answer here is (A) because semi-colons, dashes, and colons must all have a full sentence on their left hand side. *Hoping to get a good grade* is not a full sentence, so (B), (C), and (D) must all be incorrect, which leaves us with answer choice (A).
-</details>
-
-Ok, fine, but why? Let’s look at each punctuation mark more closely.
-
-### Semicolons and periods
-
-:::tip
-In terms of English syntax, **semicolons and periods are always interchangeable**. And since we cannot ever have two correct answers on the SAT, if you see two answer choices that are identical except one uses a period and the other uses a semicolon, **they must both be incorrect.**
 :::
 
-In other words, both periods and semicolons are used to seperated complete sentences from one another. These sentences, therefore,
 
-> ✅ *I like cats. You like dogs.* 
->
-> ✅ *I like cats; you like dogs.*
+# Interruptive Syntax
 
-are both correct because there is a full sentence on both the right and left hand side of the punctuation mark.
+## Theory
 
-These sentences, meanwhile,
+**Interruptive Syntax**  
 
-> ❌ *I spent last summer in Paris. A beautiful city.*
-> 
-> ❌ *I spent last summer in Paris; a beautiful city.*
+******************************Interruptive syntax****************************** refers to a type of sentence where the subject and verb are separated by a parenthetical phrase. The name *******interruptive******* refers to the fact that the flow of the sentence is “interrupted” by the insertion of parenthetical information, like this:
 
-are both incorrect because the right hand side of the punctuation mark contains a fragment.
+✅ **Bob**, *my best friend*, **is** from France.
 
-Similarly,
+In this sentence, ******Bob **********is the subject and ****is **************is the verb, and the two are separated by the parenthetical phrase ***************my best friend.*
 
-> *❌ Running for the bus. I slipped.*
-> 
-> *❌ Running for the bus; I slipped.*
+************************************************************On the SAT************************************************************
 
-are both incorrect because the left hand side is a fragment.
+This type of sentence structure is very commonly tested on the SAT. Consider this simplified example:
 
-If you are given these answer choices, therefore
+Paris, one of the most expensive cities in the _______ is not affordable for most people. 
 
+1. world,
+2. world
+3. world—
+4. world;
 
-<details>
-    <summary>
-    Given these four answer choices, what can you conclude?
-    > <ol type="A">
-    >     <li>pickles;</li>
-    >     <li>pickles.</li>
-    >     <li>pickles,</li>
-    >     <li>pickles—</li>
-    > </ol>
-    </summary>
+[If you remember the rules of sentence boundaries](https://www.notion.so/Reading-Writing-e043de9745f9454f8eb9846f14b4e39c?pvs=21), you’ll quickly see that (c) and (d) are incorrect because both dashes and semicolons require a full sentence on their left hand side.
 
-    You can safely delete answer choices (A) and (B). They cannot both be right so they must both be wrong!
-</details>
+Now let’s consider answer choice (b). If we choose to not place a comma here, then we end up with a parenthetical phrase that hasn’t been properly closed:
 
+**Paris**, one of the most expensive cities in the world **is** not affordable for most people. 
 
+This is a bad thing because the subject and the verb have been split with a single comma, which is pretty similar to writing this:
 
-### Important Exception
+**Paris** (one of the most expensive cities in the world **is** not affordable for most people. 
 
-Semicolons can also be used to delimit items in long, complicated lists where each item contains one or more commas. For example, if we have a short list like this:
+Would you ever write a sentence with just one opening bracket and no closing bracket? Of course not. We all know that we have to close the bracket at some point. Well the same is true of parenthetical phrases. If we have an “opening” comma we must have a corresponding closing comma. Answer choice (a) offers just this:
 
-> *I like Mexican food, French food, and Italian food.*
+ **Paris**, one of the most expensive cities in the world, **is** not affordable for most people. 
 
-The list and its items are clearly visible.
+which is akin to writing
 
-But if we add a bunch of details to the list, it can get unruly pretty quickly:
+ **Paris** (one of the most expensive cities in the world ) **is** not affordable for most people. 
 
-> *I like Mexican food for its bold flavors, spice, and acidity, French food for its refined dishes and history, and Italian food for its high quality ingredients, tradition, and cheese.*
+and all is well in the world.
 
-To make this clearer, let’s add semicolons between items:
+Now let’s consider this problem:
 
-> *I like Mexican food for its bold flavors, spice, and acidity; French food for its refined dishes and history; and Italian food for its high quality ingredients, tradition, and cheese.*
+Organizations such as the International Labor Organization in ___________ regularly host conferences on domestic workers’ rights.
 
-### Colons
+1. Switzerland:
+2. Switzerland,
+3. Switzerland—
+4. Switzerland
 
+Again, let’s delete (a) and (c) because [colons and dashes each require an independent clause on their left hand side](https://www.notion.so/Boundaries-Published-b5f2b63d8b68440ba352d522310bea14?pvs=21).
 
-**Colons must have an independent clause on their LHS**. On their RHS they can have either a fragment or a full sentence. All of these sentences, therefore
+Now let’s consider the commas. If we read the sentence aloud, it sounds like a comma kinda works. After reading that clunky phrase all the way up to the word ********Switzerland,******** surely we’re entitled to a short break to catch our breath, right? *********Wrong.********* If we place a comma after ***********Switzerland***********, we’ve broken the rule that ****************************opening brackets must have a corresponding closing bracket (and vice versa)****************************. Can you see now why (b) doesn’t work?
 
-> ✅ *I quit for a good reason: my boss was evil.*
-> 
-> ✅ *I love all kinds of movies: horrors, comedies, and romances.*
-> 
-> ✅ *The key to health and happiness can be summed up in one word: fondue.*
+Organizations such as the International Labor Organization in Geneva Switzerland, regularly host conferences on domestic workers’ rights.
 
-are correct because the LHS of each colon could form a stand-alone sentence.
+If we were to place a comma after ***********Switzerland***********, then we would need to place an “opening” comma before *******such as*******, like so:
 
-These examples, meanwhile,
+Organizations, such as the International Labor Organization in Geneva Switzerland, regularly host conferences on domestic workers’ rights.
 
-> *❌ Poker: it’s a wonderful game.*
-> 
-> *❌ Last night at the disco: we danced all night.*
-> 
-> *❌ Earlier I went shopping for: bread, bananas, and yogurt.*
-> 
-> *❌ I love films such as: horrors, comedies, and romances*
+But this isn’t an option, so the answer must be (d), removing commas altogether:
 
-are all incorrect because the LHS of each colon does not form a complete sentence. But wait — aren’t colons good for introducing lists?
+Organizations such as the International Labor Organization in Geneva Switzerland regularly host conferences on domestic workers’ rights.
 
-:::danger
-⛔ Yes, colons are good at introducing lists, but **DON’T FALL FOR THIS COMMON TRAP**: colons must still have a full sentence on their LHS even they are introducing a list. **If the LHS isn’t a complete sentence, the colon is simply wrong**.
-:::
+But hold on! When am I supposed to breathe here? Well you can breathe whenever you want to. As a reader, it’s up to you when you choose to pause and when you choose to power on. Of course commas and pauses are related, but that relationship isn’t set in stone. In fact, on the SAT you should tread very carefully on comma questions and be skeptical of your ear. In these sorts of questions the College Board is specifically looking to trap students who rely on their ear. Don’t let them get away with it!
 
-To fix these:
+********Parentheticals with dashes********
 
-> *❌ Earlier I went shopping for: bread, bananas, and yogurt.*
->
-> *❌ I love films such as: horrors, comedies, and romances*
+So far we’ve seen that we can mark the start and end of a sentence with commas, like this one:
 
-We can make the LHS into a full sentence:
+Cars, *although practical*, are a major source of pollution world wide. 
 
-> ✅ *Earlier I went shopping for **these items**: bread, bananas, and yogurt.*
-> 
-> ✅ *I love films such as **these**: horrors, comedies, and romances*
+And we’ve seen that we could also use brackets, as in this one:
 
-### Dashes
+Cars (*although practical*) are a major source of pollution world wide. 
 
-Dashes are pretty similar to colons in some ways, but the two differ in some important ways as well. For now let’s keep it simple and say that a dashe, like a colon, must have an independent clause on its LHS. On its RHS it can have either a fragment or a full sentence. All of these sentences, therefore
+But that’s not all. There is a third way: dashes.
 
-> ✅ *I love all kinds of movies—horrors, comedies, and romances.*
-> 
-> *✅ I quit for a good reason—my boss was evil.*
-> 
-> *✅ The key to health and happiness can be summed up in one word—fondue.*
+Cars—*although practical—*are a major source of pollution world wide. 
 
-are correct because the LHS of each dash could form a stand-alone sentence.
+All three of these options are perfectly valid. And while this may seem more complicated or “advanced”, dashes are actually really easy to apply with paretheticals. 
 
-These examples, meanwhile,
+For one, ********they are easy to spot.******** If a given sentence has two dashes in it, it’s almost impossible ***not*** to see them. 
 
-> *❌ Poker—It’s a wonderful game.*
-> 
-> *❌ Last night at the disco—we danced all night.*
-> 
-> *❌ Earlier I went shopping for—bread, bananas, and yogurt.*
-> 
-> *❌ I love films such as—horrors, comedies, and romances*
+It’s also dead simple to see which dash is the “opening” one and which one is the “closing” one. Commas, in contrast, are much more complicated because a sentence could have several commas in it, and not every pair of commas will actually form a parenthetical phrase. With dashes, however, a sentence should never have more than two dashes, so if you seen two dashes, ************************************************they must go together to form a parenthetical phrase************************************************. 
 
-are all incorrect because the LHS of each colon does not form a complete sentence. 
+### an elephant in a room
 
-### Dashes vs colons
+Students who’ve been paying attention and learned [the rules of sentence boundaries](https://www.notion.so/Boundaries-Published-b5f2b63d8b68440ba352d522310bea14?pvs=21)— particularly the rules of dash usage—may have noticed something awkward. Aren’t we required to have a full sentence on the left hand side of a dash? If so, would that make this sentence,
+
+❓ Cars—*although practical—*are a major source of pollution world wide. 
+
+a mistake?
+
+If you spotted this inconsistency, well done. But no, this is not a mistake. There are in fact two different uses of the dash. The first is to seperate clauses and the second is to mark off parenthetical phrases. Simply put:
 
 :::info
-ℹ️ Colons and dashes each require a full sentence on the left hand side, **but they are NOT totally interchangeable.** The colon, generally speaking, is less versatile than the dash. In other words if you’re stuck between the two, the dash is probably the better guess.
+ℹ️ **There are two uses of the dash:**
+
+- A problem with 1 dash requires you to apply the rules of [sentence boundaries](https://www.notion.so/Boundaries-Published-b5f2b63d8b68440ba352d522310bea14?pvs=21).
+- A problem with 2 dashes requires you to apply the rules of parenthetical phrases.
 :::
 
-1. **Dashes are more versatile than colons**
+
+## Exercises
+
+- ********************Question 1********************
     
-    Occasionally on harder questions you’ll be faced with a choice between a colon and dash, where both options have a full sentence on the LHS of the punctuation. In other words, the rules mentioned above are not sufficient to solve the problem. Here is an example:
+    Marsupials (mammals that carry their young in a pouch) are a curiosity among biologists because they lack a corpus callosum, the collection of nerve fibers connecting the two hemispheres of the brain. In most other mammals, the left hemisphere of the brain controls the right side of the body, the right hemisphere controls the left, and the corpus callosum allows communication between the hemispheres. Scientists have long believing that this structure enables complex tasks by sequestering skilled movement to a single hemisphere without sacrificing coordination between both sides of the body; this sequestration would explain handedness, the tendency to consistently prefer one hand over the other, in humans. However, a recent finding of handedness in marsupials suggests that a __________ other than the presence of a corpus callosum correlates with handedness: bipedalism.
     
-    > *I was bored at the wedding: so I went home.*
-    >
-    > *I was bored at the wedding—so I went home.*
+    1. trait
+    2. trait,
+    3. trait;
+    4. trait:
+    - **Solution**
     
-    Both options have a complete sentence on their LHS, so what’s the right answer here? The key here is that colons are very rarely followed by conjunctions (words like *so, and, but, because*) whereas this isn’t a problem with dashes. 
-
-In fact, there are few standard forms that just don't fit with a colon:
-
-    *ing* forms are no good after a colon
-    > *I studied all night: hoping to get a good grade.*
-
-    *conjuctions* are no good either
-    > *I studied all night: because I wanted to get a good grade.*
-    > *I was bored at the wedding: so I went home.*
-
-    *relative pronouns* don't work:
-    > * I bought an expensive car: which broke down after a day.*
-
-In fact, there are few standard forms that just don't fit with a colon:
-
-    *ing* forms are no good after a colon
-    > *I studied all night— hoping to get a good grade.*
-
-    *conjuctions* are no good either
-    > *I studied all night—because I wanted to get a good grade.*
-    > *I was bored at the wedding—so I went home.*
-
-    *relative pronouns* don't work
-    > * I bought an expensive car—which broke down after a day.*
+- **Question 2**
     
-2. *Dashes can come in pairs*
+    The career of Valerie Lincoln, an employee at the aerospace company United Technologies Corporation _____ is a significant success story for her company’s tuition‑reimbursement program.
     
-    Dashes, unlike colons, can sometimes come in pairs. In other words, you might find a sentence with two dashes in it, like this one:
+    1. (UTC)
+    2. (UTC)—
+    3. (UTC):
+    4. (UTC),
     
-    > ✅ *Bob (my best friend) is French.*
-    > ✅ *Bob—my best friend—is French.*
-    > ✅ *Bob, my best friend, is French.*
+    - **Solution**
+        
+        (D)
+        
     
-    This sentence is correct because the dashes are being used as brackets, so rule about how a dash must have a complete sentence on its left no longer applies.
+- **Question 3**
     
+    
+    The second (“Silver”) age of comics was marked by characters that, though somewhat simplistic by today’s standards, were more “realistic” than their Golden Age counterparts. In addition to super villains, the new, soon-to-be-iconic characters of the __________ Spider-Man, the Fantastic Four, and the Hulk among them—had to cope with mundane, real-life problems, including paying the rent, dealing with family squabbles, and facing anger, loneliness, and ostracism.
+    
+    1. age:
+    2. age;
+    3. age,
+    4. age—
+    - **Solution**
+        
+        (D)
+        
 
-### Commas
-Commas are tricky in English. In this short section we’ll be looking **ONLY** at the rules governing comma usage between clauses.
+# Titles
 
-Is this correct?
+## Theory
 
-> ? I like cats, they are fluffy.
+Job titles are frequently tested on the SAT because they allow the College Board to create awkward sentences that are nevertheless correct. Consider this question:
 
-No. This is what's known as a *run-on* or *comma splice*.
+Professor of _______ is hungry.
 
-The basic rule is that a comma **cannot** join two complete sentences. These sentences, therefore,
+1. sociology and criminology Penelope Smith,
+2. sociology and criminology Penelope Smith
+3. sociology, and criminology, Penelope Smith
+4. sociology, and criminology Penelope Smith,
+
+Referring to what we covered in the section on [interruptive parenthetical phrases](https://www.notion.so/Commas-Dashes-Parenthetical-phrases-f6833443a83344a69d2a8c84784724b8?pvs=21), we should be comfortable deleting answer choice (a) because the subject and the verb have been separated by a single comma—no good.
+
+But what about the others? The rule being applied here is this:
+
+For example, you probably wouldn’t write
+
+*❌ Professor, Smith, is hungry.*
+
+would you?
+
+Well the same rule applies here, and so the correct answer is simpy (b) because there are no commas splitting up the person’s title. 
+
+Again, this rule can lead to some awkward sentences. Here are some examples of sentences that feel like they could use a comma somewhere but are actually correct:
+
+✅ Three time Oscar nominee John Malkovich is a great actor.
+
+✅ Free speech advocate Loretta Maze is no pushover.
+
+✅ Father of five and career custodian Thurgood Samson won the lottery yesterday.
+
+## Exercises
+
+- **************************************Question 1**************************************
+    
+    
+    Cats are so cherished by *******************The State Hermitage Museum******************* in St. Petersburg that officials recently decreed original paintings to be made of six of them. In each, a cat is depicted upright in a humanlike pose and clothed in imperial-era Russian attire. The person chosen for this ____________ painted the cats in the style traditionally used by portrait artists, in so doing presenting the cats as noble individuals worthy of respect.
+    
+    1. task, digital artist, Eldar Zakirov
+    2. task, digital artist, Eldar Zakirov,
+    3. task digital artist Eldar Zakirov,
+    4. task, digital artist Eldar Zakirov,
+    - **Solution**
+        
+        (D)
+        
+
+# Prepositional Phrases
 
 :::info
-ℹ️ When two full sentences are incorrectly joined with a comma, we call this a *comma splice* or *run-on sentences*.
+ℹ️ **Job titles should not include commas.**
 :::
 
-> *❌ I like cats, they are fluffy.*
-> 
-> *❌ Geoff got home at 4am, he woke up exhausted.*
-> 
-> *❌ Spain is a beautiful country, its beaches are the best in the world.*
+:::warning
+⚠️ **Never blindly eliminate an answer choice with a comma beside a prepostion.** There are many questions—especially the more difficult ones—where the right answer includes a preposition with a parenthetical phrase beside it.
+:::
+## Theory
 
-are all incorrect because in each the comma has a full sentence on its right and its left hand sides. 
+**What are prepositions?**
 
-We can easily fix these run-on sentences in a few different ways.
+Prepositions are little words that show the relation between two nouns. That probably didn’t help much, but I’m sure you’re already familiar with these words and can probably identify them pretty easily already. Here’s a bunch of examples of prepositions:
 
-1. **We can add a conjunction**
-    
-    > *❌ I like cats, they are fluffy.*
-    > 
-    > ✅ *I like cats *because* they are fluffy.*
-    
-2. **We can change the comma into a different punctuation mark**
-    
-    > *❌ Geoff got home at 4am, he woke up exhausted.*
-    > 
-    > ✅ *Geoff got home at 4am; he woke up exhausted.*
-    > 
-    > ✅ *Geoff got home at 4am—he woke up exhausted.*
-    > 
-    > ✅ *Geoff got home at 4am: he woke up exhausted.*
-    
-3. **We can convert either the left or right hand side into a fragment**
-    
-    > *❌ Spain is beautiful country, its beaches are the best in the world.*
-    > 
-    > ✅ *Spain is a beautiful country, **its beaches the best in the world**.*
-    > 
-    > ✅ ***A beautiful country**, Spain has the best beaches in the world.*
-    > 
-    > ✅ *Spain is a beautiful country, **which has the best beaches in the world**.*
-    
+:::info
+ℹ️ ********prepositions:******** ***on, in, for, of, at, with, after, with, without, until***
 
-### Overview of rules
-
-#### Joining two full sentences
-
-| Full Sentence | connection | Full Sentence | Correct? |
-| --- | --- | --- | --- |
-| I like cats | . | They are fluffy. | works |
-| I like cats | ; (semi-colon) | they are fluffy. | works |
-| I like cats | — (dash) | they are fluffy. | works |
-| I like cats | : (colon) | they are fluffy. | works |
-| I like cats | because (conjunction) | they are fluffy. | works |
-| I like cats | , (comma) | they are fluffy. | incorrect — this is known as a comma splice or run-on sentence  |
-
-#### Joining a full sentence to a fragment
-
-| Full Sentence | connection | Fragment | Correct? |
-| --- | --- | --- | --- |
-| This is Bob | . | My best friend. | incorrect |
-| This is Bob | ; (semi-colon) | my best friend. | incorrect |
-| This is Bob | — (dash) | my best friend. | works |
-| This is Bob | : (colon) | my best friend. | works |
-| I studied for a week straight | , and (conjunction) | hoping to get a good grade. | incorrect |
-| This is Bob | , (comma) | my best friend. | works |
-
-#### Joining a fragment to a full sentence
-
-| Fragment | connection | Fragment or Full Sentence | Correct? |
-| --- | --- | --- | --- |
-| Running for the bus | . | I slipped. | incorrect |
-| Running for the bus | ; (semi-colon) | I slipped. | incorrect |
-| Running for the bus | — (dash) | I slipped. | incorrect |
-| Running for the bus | : (colon) | I slipped. | incorrect |
-| Running for the bus | and (conjunction) | I slipped. | incorrect |
-| Running for the bus | , (comma) | I slipped. | correct. |
-
-### Exercises
-
-#### Question 1
-    
-> For as long as Harvey Houses served rail travelers through the mid-twentieth century, working there was a steady and lucrative position for women. Living independently and demonstrating an intense work _______ the Harvey Girls became known as a transformative force in the American West.
->     
-> <ol type="A">
->     <li>ethic;</li>
->     <li>ethic:</li>
->     <li>ethic, and</li>
->     <li>ethic,</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (D)
-
-</details>
-    
-#### Question 2
-    
-> Based on scientific evidence, organic food offers neither significant nutritional nor safety benefits for consumers. Proponents of organic food, of course, are quick to add that there are numerous other reasons to buy organic ______ a desire to protect the environment from potentially damaging pesticides or a preference for the taste of organically grown foods.
-> 
-> <ol type="A">
->     <li>food, such as,</li>
->     <li>food such as:</li>
->     <li>food, such as:</li>
->     <li>food, such as</li>
-> </ol>
-    
-<details>
-    <summary>
-        Solution
-    </summary>
-        (d)
-
-</details>
-    
-#### Question 3
-    
-> In the mid-1800s food available on rail lines was generally of terrible quality. To capitalize on the demand for good food, Fred Harvey, an English-born _________ decided to open his own restaurant business to serve rail customers.
->     
-> <ol type="A">
->     <li>entrepreneur. He</li>
->     <li>entrepreneur:</li>
->     <li>entrepreneur; he</li>
->     <li>entrepreneur,</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (d)
-
-</details>
-    
-#### Question 4
-    
-> Employees whose tuition is reimbursed by their employer often stay with their employer even after they complete their ________ their new qualifications give them opportunities for advancement within the company.
->     
-> <ol type="A">
->     <li>degrees. Because</li>
->     <li>degrees: because</li>
->     <li>degrees because</li>
->     <li>degrees; because</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (C)
-
-</details>
-    
-#### Question 5
-    
-> Marsupials (mammals that carry their young in a pouch) are a curiosity among biologists because they lack a corpus callosum, the collection of nerve fibers connecting the two hemispheres of the brain. In most other mammals, the left hemisphere of the brain controls the right side of the body, the right hemisphere controls the left, and the corpus callosum allows communication between the hemispheres. Scientists have long believing that this structure enables complex tasks by sequestering skilled movement to a single hemisphere without sacrificing coordination between both sides of the body; this sequestration would explain handedness, the tendency to consistently prefer one hand over the other, in humans. However, a recent finding of handedness in marsupials suggests that a __________  other than the presence of a corpus callosum correlates with handedness: bipedalism.
->     
-> <ol type="A">
->     <li>trait</li>
->     <li>trait,</li>
->     <li>trait;</li>
->     <li>trait:</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (A)
-
-</details>
-    
-#### Question 6
-    
-> Fieldwork in a city has to be done intermittently: the construction crew had to proceed one block at a time to avoid interrupting traffic, and the archaeology team’s work was periodically _________ by stormy weather and the discovery of toxic materials underground.
->     
-> <ol type="A">
->     <li>halted—</li>
->     <li>halted;</li>
->     <li>halted,</li>
->     <li>halted</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (D)
-
-</details>
-
-#### Question 7
-    
-> *The Cat in The Hat*, written by Theodor Geisel in 1954, was a hit. In the years that ______ talented writers and illustrators of children’s books imitated Geisel’s formula of restricted vocabulary and whimsical artwork.
->     
-> <ol type="A">
->     <li>followed. Many</li>
->     <li>followed; many</li>
->     <li>followed, many</li>
->     <li>followed—many</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (C)
-
-</details>
-
-## Type 3: Connectors & Demotion
-
-### Identification
-
-These questions can be a little harder to spot at first
-because there is a little more variety in how the answer choices
-are presented.
-
-You may, for example, have to choose between:
-
-> <ol type="A">
->     <li>and</li>
->     <li>but</li>
->     <li>however</li>
->     <li>[blank]</li>
-> </ol>
-
-Or they may throw some relative pronouns into the mix:
-
-> <ol type="A">
->     <li>which</li>
->     <li>that</li>
->     <li>[blank]</li>
-> </ol>
-
-Or the answer choices may look pretty much identical to the [verb activation](#type-1-activating-the-verb) question types we looked at earlier:
-
-> <ol type="A">
->     <li>running</li>
->     <li>that ran</li>
->     <li>run</li>
->     <li>having run</li>
-> </ol>
-
-Or you might have a mix of [punctuation](#type-2-punctuation) style options with any of the above:
-
-> <ol type="A">
->     <li>hair, but</li>
->     <li>hair, however,</li>
->     <li>hair;</li>
->     <li>hair, </li>
-> </ol>
-
-Let's move on to the concepts, then, and you'll start to see how it all ties together soon.
-
-### Conjunctions
-
-#### Fixing run-on sentences without changing the punctuation
-
-Let’s say you are given a run-on sentence such as this one:
-
-> *❌ I like cats, they are fluffy.*
-> 
-> ✅ *I like cats *because* they are fluffy.*
-
-
-| type |  | sample sentences |
-| --- | --- | --- |
-| coordinating conjunctions | f
-a
-n
-b
-o
-y
-s |  |
-| subordinating conjunctions |  |  |
-
-
-### Demotion
-
-Demotion is when you merge two sentences by converting one of them into a fragment.
-
-For example, these two sentences,
-> Last summer I visited France. France is a beautiful country.
-
-could really be merged into a single sentence.
-Can you think?
-
-<details>
-    <summary>
-        How can we merge the two sentences above to be more concise?
-    </summary>
-    > Last summer I visited France, a beautiful country.
-
-    By *demoting* the second sentence into a fragment, we avoid repetition.
-</details>
-
-
-#### Question 1
-    
-> 1-MCP is a chemical fruit sellers use to keep their fruits looking fresh. This chemical works by limiting a fruit’s production of ethylene, it is a chemical that causes fruit to ripen and eventually rot.
->     
-> <ol type="A">
->     <li>NO CHANGE</li>
->     <li>being</li>
->     <li>that is</li>
->     <li>DELETE the underlined portion</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (D)
-
-</details>
-        
-#### Question 2
-    
-> Many librarians, whose training now includes courses on research and Internet search methods, teach classes in Internet navigation, database and software use, and digital information literacy. While these classes are particularly helpful to young students developing basic research skills, but adult patrons can also benefit from librarian assistance in that they can acquire job-relevant computer skills.
->     
-> <ol type="A">
->     <li>NO CHANGE</li>
->     <li>and</li>
->     <li>for</li>
->     <li>DELETE the underlined portion</li>
-> </ol>
-<details>
-    <summary>
-        Solution
-    </summary>
-        (D)
-
-</details>
-        
-
-### Relative Pronouns
-
-[https://docs.google.com/document/d/1_e0FEWYuT0vPb0xnSZ8MiJFdljbtniX8Jbr0MfDv0JU/edit#](https://docs.google.com/document/d/1_e0FEWYuT0vPb0xnSZ8MiJFdljbtniX8Jbr0MfDv0JU/edit#)
-
-### Conjunctive Adverbs
-
-:::danger
-⛔ Conjunctive adverbs are **not conjunctions** so they can’t join sentences by themselves. They can be used with semicolons, colons, or dashes, however. Here are some examples:
-
-> ❌ *I like cats, however, I don’t own one.*
-> 
-> ✅ *I like cats; however, I don’t own one.*
-> 
-> ❌ *I like dogs, for instance, I love Westies.*
-> 
-> ✅ *I like dogs: for instance, I love Westies.*
-
+These words are used to show how two ideas, objects, concepts or whatever are related in space or time.
 :::
 
-### Exercises
+When a preposition is used to connect two ideas or objects, we get a ********************prepositional phrase********************. Here are some more examples:
 
-#### Question 1
+*the cup **on** the table* ⇒ shows the relationship between ********the cup******** and *********the table*********. 
+
+*The King **of** England* ⇒ shows the relationship between ********The King******** and *********England*********. 
+
+********the day **********after********** tomorrow* ⇒ shows the relationship between *******the day******* and ***tomorrow***.
+
+The relationship between the ideas is often spatial (the cup is *on* the table) but it can also be more abstract (the King *of* England) or even temporal (the day *after* tomorrow). 
+
+But regardless of the ideas being joined, prepositions join together ********************************************tightly connected ideas******************************************** and as such we don’t want to break up this tight connection with commas.
+
+*❌ the King, of England*
+
+*❌ the cup, on the table*
+
+*❌ the day after, tomorrow* 
+
+Just as for the other comma rules, this rule can lead to some pretty awkward sounding sentences, and The College Board takes full advantage of this in its endeavors to ruin your life. This sentence, for instance,
+
+✅ ********************************The car in the parking spot across the street from the house with the broken windows and the damaged roof with the cracked tiles and gaping holes is blue.********************************
+
+is correct. If you pick apart the sentence, you’ll see that every idea is tightly connected to the next one with a prepositional phrase:
+
+✅ **********************************The car in** the parking spot **across** the street **from** the house **with** the broken windows and the damaged roof **with** its cracked tiles and gaping holes **is blue**.*
+
+t*he car in the parking spot* ⇒ no comma
+
+*the parking spot across the street* ⇒ no comma
+
+*across the street from the house* ⇒ no comma
+
+*the house with the broken windows and damaged roof* ⇒ no comma
+
+*the damaged roof with its cracked tiles and gaping holes* ⇒ no comma
+
+So no commas.
+
+## Exercises
+
+- **************************************Question 1**************************************
     
     
-> Since public transport systems that go fare-free see increases in ridership, they often must operate more buses and trains and hire more drivers and other personnel at the same time that they are losing a key source of funding. Advocates of fare-free policies claim that the costs of these policies are largely offset by various ___________ a recent study comparing projected results of fare-free policies in different cities found this outlook to be overly optimistic.
->     
-> <ol type="A">
->     <li>savings, however,</li>
->     <li>savings,</li>
->     <li>savings, but</li>
->     <li>savings; and</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
-        (C)
-
-</details>
+    Boss Tweed’s Tammany Hall group, which controlled New York _________ stole more than $30 million, the equivalent of more than $365 million today.
+    
+    1. City in the 1860s—
+    2. City in the 1860s,
+    3. City, in the 1860s,
+    4. City in the 1860s
+    - **Solution**
         
-    
-#### Question 2
-    
-    
-> A video game designer envisions the game’s fundamental elements—the settings, characters, and plots that make each game unique—and is thus a primary creative force behind a video game. Conceptualizing a game is only the beginning of a video game designer’s _________ matter how good a concept is, it will never be translated into a video game unless it is communicated effectively to all the other members of the video game development team.
->     
-> <ol type="A">
->     <li>job, however, no</li>
->     <li>job, however. No</li>
->     <li>job—however, no</li>
->     <li>job however no</li>
-> </ol>
-
-<details>
-    <summary>
-        Solution
-    </summary>
         (B)
-
-</details>
         
-#### Question 3
+- **************************************Question 2**************************************
     
     
-> 1-MCP is a chemical fruit sellers use to keep their fruits looking fresh. But some fruits do not respond as well to 1-MCP as others do, and some even respond adversely. Furthermore, some fruits, particularly those that naturally produce a large  amount of ethylene, do not respond as well to 1-MCP treatment. Take Bartlett ________ unless they are treated with exactly the right amount of 1-MCP at exactly the right time, they will remain hard and green until they rot, and consumers who experience this will be unlikely to purchase them again.
->     
-> <ol type="A">
->     <li>pears, for instance,</li>
->     <li>pears, for instance:</li>
->     <li>pears for instance,</li>
->     <li>pears. For instance,</li>
-> </ol>
+    Most scientists looking for the causes of the Great Melt of 2012 have focused exclusively on rising temperatures. The summer of 2012 was the warmest in 170 years, records show. But Jason _________ believes that another factor added to the early thaw: the “dark snow” problem.
+    
+    1. Box, an associate professor of geology at Ohio State
+    2. Box an associate professor of geology at Ohio State,
+    3. Box, an associate professor of geology at Ohio State,
+    4. Box, an associate professor of geology, at Ohio State,
+    - **Solution**
+        
+        Answer (C)
+        
 
-<details>
-    <summary>
-        Solution
-    </summary>
-        (B)
+# Lists (TODO)
 
-</details>
+## Theory
+
+## Exercises
+
+# “Exceptions”
+
+## Theory
+
+Just about every comma “rule” can be broken with a single exception. All you have to do, for example, to correctly place a comma next to a preposition is to insert a parenthetical phrase just before or after the preposition in question. Here, for example,
+
+✅ ***********The woman had been **living** **on** just **a dollar** a day for years.*
+
+we have a correct sentence with the preposition *****on***** connecting the word ***living*** to the phrase ***a dollar.*** As it stands we wouldn’t place a comma beside the preposition ******on****** because we’d be breaking the preposition rule explained above. However, we can, correctly, add a parenthetical phrase to our sentence, like so:
+
+✅ ***********The woman had been **living,** believe it or not**,** **on** just **a dollar** a day for years.*
+
+By adding in a parenthetical phrase, we seem to have broken our preposition rule! But all is well, actually, because our parenthetical phrase is correctly marked off with both an opening comma and a closing comma. We could even choose to use brackets or dashes to insert our parenthetical phrase, and the sentence would still be correct:
+
+✅ ***********The woman had been **living**—believe it or not—**on** just **a dollar** a day for years.*
+
+✅ ***********The woman had been **living*** (***********believe it or not***********) *************on** just **a dollar** a day for years.*
+
+## Exercises
+
+- **************************************Question CBP-2.2.33**************************************
+    
+    
+    Wilmers and Estes caution that increasing the sea otter population will not automatically solve the problem of higher levels of carbon dioxide in the air. But they suggest that the presence of otters provides a good model of how carbon can be sequestered, ____________ the atmosphere through the management of animal populations.
+    
+    1. or removed; from
+    2. or removed from,
+    3. or, removed from,
+    4. or removed, from
+    - ******************Solution******************
+        
+        Answer (D) is correct.
