@@ -732,14 +732,6 @@ Adverbs can be placed in many locations in a sentence.
 > I like cats. I don't own one, however.
 
 
-Adverbs can be placed in many locations in a sentence.
-> I like cats. However, I don't own one. I don't have time to take care of one.
->
-> I like cats. I, however, don't own one. I don't have time to take care of one.
->
-> I like cats. I don't, however, own one. I don't have time to take care of one.
->
-> I like cats. I don't own one, however. I don't have time to take care of one.
 
 
 :::danger
@@ -890,12 +882,6 @@ You can *demote* a sentence in different ways. How might you fix some of these r
         Solution
     </summary>
         (B)
-
-    (A) and (D) are run-ons because conjunctive adverbs can't join full sentences.
-    (C) 
-
-    1) A video envisions the elements, **but** conceptualizing the game is only the beginning.
-    2) Conceptualizing the game is only the beginningm, **but** it will never be turned into a game without communication.
 
 </details>
         

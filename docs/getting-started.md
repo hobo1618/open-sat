@@ -37,8 +37,8 @@ Where you are right now. If you keep pressing next after each page, you'll move 
 The blog is for content that doesn't fit easily into a learning path, such as broader discussions about testing fairness (cough), tips on keeping focused, or whatever else. Video content posted to
 YouTube will also be posted here, along with a short explanation of the ideas covered.
 
-### Live streams
-Every Sunday at 8pm CET (Paris, Madrid) I'll be doing a 90-minute live stream where I answer your questions, explain some concept that's been on my mind, comment on bad test-prep advice, or just work on this site.
+<!-- ### Live streams -->
+<!-- Every Sunday at 8pm CET (Paris, Madrid) I'll be doing a 90-minute live stream where I answer your questions, explain some concept that's been on my mind, comment on bad test-prep advice, or just work on this site. -->
 
 ### Discord
 We're on Discord!

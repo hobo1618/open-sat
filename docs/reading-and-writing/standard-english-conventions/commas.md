@@ -57,7 +57,7 @@ Parenthetical phrases can occur at the start of a sentence,
 
 in the middle of a sentence,
 
-> Bob, **************my best friend,* is from France.
+> Bob, *my best friend,* is from France.
 
 or at the end of a sentence,
 
