@@ -645,26 +645,95 @@ Let's move on to the concepts, then, and you'll start to see how it all ties tog
 
 ### Conjunctions
 
-#### Fixing run-on sentences without changing the punctuation
+Conjunctions are words that allow us to connect two sentences syntactically.
+In other words, they can act as replacements for *periods* and *semi-colons*, and even *colons* and *dashes* in some cases.
 
-Let’s say you are given a run-on sentence such as this one:
+Here is an overview of the main conjunctions. 
+
+| type | conjunctions  | sample sentences | comment |
+| --- | --- | --- | --- |
+| coordinating conjunctions | for <br/> and <br/> nor <br/> but <br/> or <br/> yet <br/> so | I ate, for I was hungry. <br/> I like cats, and I like dogs. <br/> I don't like cats, nor do I like dogs <br/> I like cats, but I don't like dogs. <br/> I need to eat now, or I might faint. <br/> I like cats, so I bought one. <br/> I like cats, yet I don't own one.  | not important: *nor*, *for*, *or* <br/> important: *and*, *but*, *so* |
+| subordinating conjunctions | because <br/> since <br/> while <br/> as | Because I was hungry, I ate lunch. <br/> I have been playing chess since I was six years old. <br/> While you were at the store, I was at home. <br/> As you already know, I love cats. | *subordinating conjunctions* can be placed at the start of the sentence or between the sentences. |
+
+And here are some typical mistakes, along with their corrections, that you might encounter in an SAT boundaries question.
+
+#### Run-on sentences
 
 > *❌ I like cats, they are fluffy.*
 > 
 > ✅ *I like cats *because* they are fluffy.*
 
+#### Double-conjunctions
 
-| type |  | sample sentences |
-| --- | --- | --- |
-| coordinating conjunctions | f
-a
-n
-b
-o
-y
-s |  |
-| subordinating conjunctions |  |  |
+>  
+> ❌ *Because I like cats, so I bought one.*
+> 
+> This sentence has two conjunctions where we only need one. 
+To fix the issue we only need to delete one of the two conjunctions, and we're good.
+> 
+> ✅ ***Because** I like cats, I bought one.*
+> 
+> ✅ *I like cats, **so** I bought one.*
 
+
+### Conjunctive Adverbs
+
+Conjunctive adverbs are words we use to connect the ideas between sentences.
+Here are some examples of conjunctive adverbs:
+
+> *however*, *therefore*, *nevertheless*
+
+These words share some properties with conjunctions, namely that both types of words connect *ideas*:\
+
+> *I am hungry. However, I won't eat anything.*
+>
+> *I am hungry, but I won't eat anything.*
+
+In both cases, the words *however* and *but* serve to illustrate that there is a contrast between the first and second ideas.
+
+Despite the name, though, *conjunctive adverbs* are not conjunctions, but adverbs.
+In other words, they**cannot** join full sentences on their own.
+
+:::danger
+⛔ Conjunctive adverbs are **not conjunctions** so they can’t join sentences by themselves. They can be used with semicolons, colons, or dashes, however. Here are some examples:
+
+> ❌ *I like cats, however, I don’t own one.*
+> 
+> ✅ *I like cats; however, I don’t own one.*
+> 
+> ❌ *I like dogs, for instance, I love Westies.*
+> 
+> ✅ *I like dogs: for instance, I love Westies.*
+
+:::
+
+This means that this sentence is incorrect:
+
+> 
+> *I am hungry, however, I won't eat anything.*
+> 
+
+<details>
+    <summary>
+        They are all wrong for the same reason.
+
+        Can you think of why? How might you fix them based on the rules we've covered so far?
+
+    </summary>
+        All four are [*run-on sentences*](#run-on-sentences) because the *conjunctive adverbs* don't connect sentences syntatically.
+        > 
+        > ❌*I am hungry, however, I won't eat anything.*
+        > 
+        > ✅*I am hungry; however, I won't eat anything.*
+        > 
+        > ✅*I am hungry. However, I won't eat anything.*
+        > 
+        > ✅*I am hungry<span>&mdash;</span>however, I won't eat anything.*
+        > 
+        These are just a few of the possible ways we could fix this run-on sentence without changing the underlying structure too much.
+</details>
+
+✅
 
 ### Demotion
 
@@ -685,6 +754,43 @@ Can you think?
     By *demoting* the second sentence into a fragment, we avoid repetition.
 </details>
 
+You can *demote* a sentence in different ways. How might you fix some of these run-ons?
+
+> ❌ I was running for the bus, I slipped.
+> 
+> ❌ I studied all night long, I was hoping to get a good grade.
+> 
+> ❌ I bought an expensive car, The car was stolen a day later.
+> 
+> ❌ I met a woman, Her shoes were bright green.
+> 
+
+<details>
+    <summary>
+        How can we fix the run-on sentences above by demoting one of the two independent clauses?
+    </summary>
+    Here are some of the ways we can fix the above sentences by demoting either right or left hand side into a fragment.
+        > ❌I was running for the bus, I slipped.
+        > 
+        > ✅Running for the bus, I slipped.
+        > 
+        > ❌I studied all night long, I was hoping to get a good grade.
+        > 
+        > ✅I studied all night long, hoping to get a good grade.
+        > 
+        > ❌ I bought an expensive car, The car was stolen a day later.
+        > 
+        > ✅I bought an expensive car which was stolen a day later.
+        > 
+        > ❌I met a woman, Her shoes were bright green.
+        > 
+        > ✅I met a woman whose shoes were bright green.
+        > 
+    By *demoting* the second sentence into a fragment, we avoid repetition.
+</details>
+
+
+### Exercises
 
 #### Question 1
     
@@ -724,28 +830,7 @@ Can you think?
 </details>
         
 
-### Relative Pronouns
-
-[https://docs.google.com/document/d/1_e0FEWYuT0vPb0xnSZ8MiJFdljbtniX8Jbr0MfDv0JU/edit#](https://docs.google.com/document/d/1_e0FEWYuT0vPb0xnSZ8MiJFdljbtniX8Jbr0MfDv0JU/edit#)
-
-### Conjunctive Adverbs
-
-:::danger
-⛔ Conjunctive adverbs are **not conjunctions** so they can’t join sentences by themselves. They can be used with semicolons, colons, or dashes, however. Here are some examples:
-
-> ❌ *I like cats, however, I don’t own one.*
-> 
-> ✅ *I like cats; however, I don’t own one.*
-> 
-> ❌ *I like dogs, for instance, I love Westies.*
-> 
-> ✅ *I like dogs: for instance, I love Westies.*
-
-:::
-
-### Exercises
-
-#### Question 1
+#### Question 3
     
     
 > Since public transport systems that go fare-free see increases in ridership, they often must operate more buses and trains and hire more drivers and other personnel at the same time that they are losing a key source of funding. Advocates of fare-free policies claim that the costs of these policies are largely offset by various ___________ a recent study comparing projected results of fare-free policies in different cities found this outlook to be overly optimistic.
@@ -766,7 +851,7 @@ Can you think?
 </details>
         
     
-#### Question 2
+#### Question 4
     
     
 > A video game designer envisions the game’s fundamental elements—the settings, characters, and plots that make each game unique—and is thus a primary creative force behind a video game. Conceptualizing a game is only the beginning of a video game designer’s _________ matter how good a concept is, it will never be translated into a video game unless it is communicated effectively to all the other members of the video game development team.
@@ -786,7 +871,7 @@ Can you think?
 
 </details>
         
-#### Question 3
+#### Question 5
     
     
 > 1-MCP is a chemical fruit sellers use to keep their fruits looking fresh. But some fruits do not respond as well to 1-MCP as others do, and some even respond adversely. Furthermore, some fruits, particularly those that naturally produce a large  amount of ethylene, do not respond as well to 1-MCP treatment. Take Bartlett ________ unless they are treated with exactly the right amount of 1-MCP at exactly the right time, they will remain hard and green until they rot, and consumers who experience this will be unlikely to purchase them again.
