@@ -268,9 +268,10 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     <li> $18$ </li>
 </ol>
     
-<DesmosDetails summary="Use desmos to solve the problem" />
-<details><summary>Solution</summary> A </details>
+https://www.desmos.com/calculator/
 
+<DesmosDetails summary="Use desmos to solve the problem" />
+<DesmosDetails summary="Solution" id="oen6wpknj3" />
     
 ### Question 6
     
@@ -281,7 +282,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     The given equation defines the function $f$. For what value of $x$ does $f(x)$ reach its minimum?
     
 <DesmosDetails summary="Use desmos to solve the problem" />
-<details><summary>Solution</summary> 2.5 </details>
+<DesmosDetails summary="Solution" id="ezev2snx1v" />
     
 ### Question 7
     
@@ -295,7 +296,7 @@ Solving the following problems using the desmos app, **even if it’s not the mo
 </ol>
 
 <DesmosDetails summary="Use desmos to solve the problem" />
-<details><summary>Solution</summary> A </details>
+<DesmosDetails summary="Solution" id="jaopethgs4"/>
     
 ### Question 8
     
@@ -309,6 +310,6 @@ Solving the following problems using the desmos app, **even if it’s not the mo
 </ol>
 
 <DesmosDetails summary="Use desmos to solve the problem" />
-<details><summary>Solution</summary> D </details>
+<DesmosDetails summary="Solution" id="asfdog09mf" />
 
 
