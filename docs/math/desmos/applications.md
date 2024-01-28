@@ -246,7 +246,9 @@ Solving the following problems using the desmos app, **even if it’s not the mo
     <li> $154$ </li>
 </ol>
 
+
 <DesmosDetails summary="Use desmos to solve the problem" />
+<DesmosDetails summary="Solution" id="n4bgr2hogt" />
 <details><summary>Solution</summary> B </details>
     
     
