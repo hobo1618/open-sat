@@ -200,7 +200,8 @@ into this form:
 > $$y=a(x-p)(x-q)$$
 
 We can then set $y=0$ (where the $x$-intercepts are),
-and solve for $x$ using the [null product rule](/docs/math/algebra/slope-intercept-form.md). 
+<!-- and solve for $x$ using the [null product rule](/docs/math/algebra/slope-intercept-form.md).  -->
+and solve for $x$ using the null product rule
 
 But how do we actually transform the first form into the second?
 
