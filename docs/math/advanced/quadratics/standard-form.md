@@ -1,6 +1,5 @@
 ---
 sidebar_position: 0
-draft: true
 slug: "standard-form"
 ---
 # The Standard Form
@@ -342,7 +341,8 @@ becomes
 > $$y=a(x-h)^2+k$$
 
 <!-- TODO: change the link below to be more targeted -->
-which makes it much easier [to solve](#the-vertex-form-aka-turning-point-form).
+which makes it much easier to solve.
+<!-- which makes it much easier [to solve](#the-vertex-form-aka-turning-point-form). -->
 
 So how do we transform the function from one form to the other?
 
