@@ -383,7 +383,7 @@ Now we set $y=0$:
 
 > $0=(x+4)^2 -13$
 
-And solve.
+And [solve](/docs/math/advanced/quadratics/vertex-form.md#finding-solutions).
 
 But how did we come up with the $16$???? That was pretty random.
 
