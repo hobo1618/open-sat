@@ -389,13 +389,54 @@ But Jason _________ believes that another factor added to the early thaw: the �
 
 </details>     
 
+
+### Two item lists
+
+If you have two items connected with the word *and*, you should not put a comma between them. For example,
+
+> ❌I like bread, and honey.
+>
+> ✅I like bread and honey.
+>
+
+Add a third item, however, and things change. 
+
+
+> ✅ I like bread, milk and honey.
+> 
+
+With an *Oxford* comma works as well.
+
+> ✅ I like bread, milk, and honey.
+>
+
+This can produce some awkward sentences where the *and* groups together a set of ideas, and the flow of the sentence is hard to get your head around. 
+
+> Bob and Alex, Steve and Stacy, and Sandra and Jean were over for dinner last night.
+
+The key is to figure what the groups are.
+Any list of two items should not have a comma before the *and*.
+
+This is also true for the word *or*. For example,
+
+> ✅ Bob or Sally will do the dishes.
+>
+> ❌ Bob, or Sally, will do the dishes.
+>
+> ✅ Alex, Bob or Sally will do the dishes.
+>
+> ✅ Alex, Bob, or Sally will do the dishes.
+
+
+
+
 ### Titles
 
 Job titles are frequently tested on the SAT because they allow the College Board to create awkward sentences that are nevertheless correct. Consider this question:
 
 >Professor of _______ is hungry.
 ><ol type="A">
->   <li>sociology and criminology Penelope Smith,</li>
+>   <li>sociology and criminology, Penelope Smith,</li>
 >   <li> sociology and criminology Penelope Smith</li>
 >   <li> sociology, and criminology, Penelope Smith</li>
 >   <li> sociology, and criminology Penelope Smith,</li>
