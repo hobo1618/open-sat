@@ -35,15 +35,15 @@ export default function Home(): JSX.Element {
 
             {
 
-            // TODO: #darkmode doesn/'t work probably due to SSR or related
-            // <span style={{
-            //     position: 'absolute',
-            //     padding: '1rem',
-            //     top: '0',
-            //     right: '0',
-            // }}>
-            //     <ColorModeToggle />
-            // </span>
+                // TODO: #darkmode doesn/'t work probably due to SSR or related
+                // <span style={{
+                //     position: 'absolute',
+                //     padding: '1rem',
+                //     top: '0',
+                //     right: '0',
+                // }}>
+                //     <ColorModeToggle />
+                // </span>
             }
             <h1
                 style={{
@@ -56,9 +56,9 @@ export default function Home(): JSX.Element {
 
                 }}
             >
-                Open
+                <a className={styles.landingLink} href="/docs/getting-started">Open</a>
                 <br />
-                SAT
+                <a href="/docs/getting-started">SAT(R)</a>
             </h1>
             <div style={{
                 display: 'flex',
@@ -77,7 +77,7 @@ export default function Home(): JSX.Element {
                         style={{
                             fontFamily: 'Outfit',
                             fontWeight: 600,
-                            fontSize: '8rem',
+                            fontSize: '4rem',
                             letterSpacing: '-0.5rem',
                             lineHeight: '0.8',
                             background: 'linear-gradient(to right, #f12711, #f5af19)',
@@ -94,15 +94,22 @@ export default function Home(): JSX.Element {
                         for everyone
                         <br />
                     </h2>
+
+                    <div className={styles.buttons} style={{
+                        width: "100%",
+                        display: 'flex',
+                        justifyContent: 'flex-end',
+
+                    }} >
+                        <Link
+                            className="button button--primary button--lg"
+                            to="/docs/getting-started">
+                            Get Started
+                        </Link>
+                    </div>
                 </div>
             </div>
-            <div className={styles.buttons} >
-                <Link
-                    className="button button--secondary button--lg"
-                    to="/docs/getting-started">
-                    Get Started
-                </Link>
-            </div>
+
         </div>
     );
 }
