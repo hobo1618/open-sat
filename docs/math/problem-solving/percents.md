@@ -153,7 +153,14 @@ And you are done.
 
 ## Percent increase / decrease
 
+Questions involving percentage increase or decrease tend to cause students some difficulty.
+This is largely because most students have not learnt how to properly handle these types of calculations.  
+
+Let's look at an 
+
 ### Converting percentage change to multiplier
+
+
 
 ### Finding the final amount
 

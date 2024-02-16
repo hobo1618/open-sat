@@ -141,7 +141,7 @@ const config: Config = {
                     ],
                 },
             ],
-            copyright: `Copyright © ${new Date().getFullYear()} open SAT, Inc.`,
+            copyright: `Copyright © ${new Date().getFullYear()} open SAT(R), Inc. TEST NAMES ARE THE PROPERTY OF THE RESPECTIVE TRADEMARK HOLDERS, NONE OF WHOM ENDORSE OR ARE AFFILIATED WITH THIS WEBSITE.`,
         },
         prism: {
             theme: prismThemes.github,

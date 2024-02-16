@@ -56,7 +56,9 @@ export default function Home(): JSX.Element {
 
                 }}
             >
-                <a className={styles.landingLink} href="/docs/getting-started">Open</a>
+                <a style={{
+                    color: "var(--ifm-color-primary-light)",
+                }} href="/docs/getting-started">Open</a>
                 <br />
                 <a href="/docs/getting-started">SAT(R)</a>
             </h1>
@@ -80,7 +82,8 @@ export default function Home(): JSX.Element {
                             fontSize: '4rem',
                             letterSpacing: '-0.5rem',
                             lineHeight: '0.8',
-                            background: 'linear-gradient(to right, #f12711, #f5af19)',
+                            // background: 'linear-gradient(to right, #f12711, #f5af19)',
+                            background: 'linear-gradient(to right, var(--ifm-color-primary), var(--ifm-color-primary-lightest)',
                             WebkitBackgroundClip: 'text',
                             WebkitTextFillColor: 'transparent',
                             paddingRight: '0.5rem'
