@@ -14,6 +14,7 @@ function ColorModeToggle({ className, buttonClassName, value, onChange }) {
     }, [])
 
     const handleModeChange = () => {
+        console.log(value)
         onChange(value === 'dark' ? 'light' : 'dark')
         updateSourceMedia(value === 'dark' ? 'light' : 'dark')
     }

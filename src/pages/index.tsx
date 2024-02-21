@@ -1,93 +1,23 @@
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import Heading from '@theme/Heading';
-
-import styles from './index.module.css';
-// import ColorModeToggle from '../theme/ColorModeToggle';
-
-function HomepageHeader() {
-    const { siteConfig } = useDocusaurusContext();
-    return (
-        <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        </header>
-    );
-}
+import { Button } from "../components/ui/button";
+import { CaretRightIcon } from '@radix-ui/react-icons';
 
 export default function Home(): JSX.Element {
-    const { siteConfig } = useDocusaurusContext();
     return (
-
-        <div
-            style={{
-                display: 'flex',
-                flexDirection: 'column',
-                height: '100vh',
-                alignItems: 'center',
-                position: 'relative',
-                // justifyContent: 'space-between',
-                width: '100vw',
-                gap: '4rem',
-                padding: '4rem',
-            }}>
-
-            {
-
-                // TODO: #darkmode doesn/'t work probably due to SSR or related
-                // <span style={{
-                //     position: 'absolute',
-                //     padding: '1rem',
-                //     top: '0',
-                //     right: '0',
-                // }}>
-                //     <ColorModeToggle />
-                // </span>
-            }
-            <h1
-                style={{
-                    fontFamily: 'Outfit',
-                    fontWeight: 600,
-                    fontSize: '2rem',
-                    textAlign: 'center',
-                    // letterSpacing: '1rem',
-                    lineHeight: '1',
-
-                }}
-            >
-                <a style={{
-                    color: "var(--ifm-color-primary-light)",
-                }} href="/docs/getting-started">Open</a>
+        <div className="flex flex-col h-screen items-center relative w-full gap-16 p-16">
+            <a
+                className='text-[var(--ifm-color-primary)] text-center font-bold text-2xl leading-6'
+                href="/docs/getting-started">
+                Open
                 <br />
-                <a href="/docs/getting-started">SAT(R)</a>
-            </h1>
-            <div style={{
-                display: 'flex',
-                flexDirection: 'row',
-                justifyContent: 'center',
-                gap: '12rem',
-                alignItems: 'center',
-                width: '100%',
-                height: '100%',
-            }}>
+                SAT(R)
+            </a>
+            <div className="flex flex-row justify-center gap-48 items-center w-full h-full" >
                 <a href="/docs/getting-started">
                     <img src='/img/smiley.png' />
                 </a>
                 <div>
                     <h2
-                        style={{
-                            fontFamily: 'Outfit',
-                            fontWeight: 600,
-                            fontSize: '4rem',
-                            letterSpacing: '-0.5rem',
-                            lineHeight: '0.8',
-                            // background: 'linear-gradient(to right, #f12711, #f5af19)',
-                            background: 'linear-gradient(to right, var(--ifm-color-primary), var(--ifm-color-primary-lightest)',
-                            WebkitBackgroundClip: 'text',
-                            WebkitTextFillColor: 'transparent',
-                            paddingRight: '0.5rem'
-                        }}>
+                        className="bg-gradient-to-r from-[var(--ifm-color-primary)] to-[var(--ifm-color-primary-darkest)] text-transparent bg-clip-text font-bold text-[4rem] tracking-[-0.5rem] leading-[0.8] pr-2" >
                         free
                         <br />
                         open-source
@@ -98,17 +28,15 @@ export default function Home(): JSX.Element {
                         <br />
                     </h2>
 
-                    <div className={styles.buttons} style={{
-                        width: "100%",
-                        display: 'flex',
-                        justifyContent: 'flex-end',
-
-                    }} >
-                        <Link
-                            className="button button--primary button--lg"
-                            to="/docs/getting-started">
-                            Get Started
-                        </Link>
+                    <div className="flex items-center justify-end w-full pt-5" >
+                        <Button variant='outline' asChild>
+                            <a
+                                href="/docs/getting-started"
+                            >
+                                Get Started
+                                <CaretRightIcon className='ml-1 w-5 h-5' />
+                            </a>
+                        </Button>
                     </div>
                 </div>
             </div>
@@ -116,38 +44,3 @@ export default function Home(): JSX.Element {
         </div>
     );
 }
-
-
-// <Layout
-//             title={`Hello from ${siteConfig.title}`}
-//             description="Description will go into a meta tag in <head />"
-//         >
-//             <div className="container">
-//                 <h1 style={{
-//                     fontFamily: 'Outfit',
-//                     fontWeight: 600,
-//                     fontSize: '8rem',
-//                     letterSpacing: '-0.5rem',
-//                     lineHeight: '1',
-//
-//                 }}>
-//                     Free
-//                     <br style={{
-//
-//                     }}/>
-//                     open-source
-//                     <br/>
-//                     test prep
-//                     <br/>
-//                     for everyone
-//                     <br/>
-//                 </h1>
-//                 <div className={styles.buttons}>
-//                     <Link
-//                         className="button button--secondary button--lg"
-//                         to="/docs/intro">
-//                         Get Started
-//                     </Link>
-//                 </div>
-//             </div>
-//         </Layout>

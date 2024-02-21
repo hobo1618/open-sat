@@ -8,6 +8,19 @@ const config: Config = {
     title: 'Open SAT',
     tagline: 'Free, open-source SAT prep for everyone',
     favicon: 'img/smiley.ico',
+    plugins: [
+        async function myPlugin(context, options) {
+            return {
+                name: "docusaurus-tailwindcss",
+                configurePostCss(postcssOptions) {
+                    // Appends TailwindCSS and AutoPrefixer.
+                    postcssOptions.plugins.push(require("tailwindcss"));
+                    postcssOptions.plugins.push(require("autoprefixer"));
+                    return postcssOptions;
+                },
+            };
+        },
+    ],
     stylesheets: [
         {
             href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
@@ -97,8 +110,9 @@ const config: Config = {
                 { to: '/resources', label: 'Resources', position: 'left' },
                 {
                     href: 'https://github.com/hobo1618/open-sat',
-                    label: 'GitHub',
                     position: 'right',
+                    className: 'header-github-link',
+                    ariaLabel: 'GitHub repository',
                 },
             ],
         },

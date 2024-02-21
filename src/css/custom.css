@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -7,17 +10,82 @@
 /* orange #f12711 hsv(6,93,95)*/
 /* yellow-orange #f5af19 hsv(41,90,96)*/
 
+.header-github-link::before {
+    content: '';
+    width: 24px;
+    height: 24px;
+    display: flex;
+    background-color: var(--ifm-navbar-link-color);
+    mask-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E");
+    transition: background-color var(--ifm-transition-fast) var(--ifm-transition-timing-default);
+}
+
+.header-github-link:hover::before {
+    background-color: var(--ifm-navbar-link-hover-color);
+}
+
 :root {
+    /* hsl(5.89, 88.89%, 50.59%) red */
     --ifm-color-primary: #f12711;
+
+    /* hsl(19.13, 89.8%, 50%) orange */
     --ifm-color-primary-dark: #f2560d;
+
+    /* hsl(25.71, 91.3%, 49.61%) lighter orange */
     --ifm-color-primary-darker: #f26e0b;
+
+    /* hsl(31.93, 92.83%, 49.22%) */
     --ifm-color-primary-darkest: #f28509;
+
+    /* hsl(31.93, 92.83%, 49.22%) */
     --ifm-color-primary-light: #f29D07;
+
+    /* hsl(44.3, 95.95%, 48.43%) yellow */
     --ifm-color-primary-lighter: #f2b405;
+
+    /* hsl(56.03, 100%, 47.45%) bright yellow */
     --ifm-color-primary-lightest: #f2e200;
+
+
     --ifm-code-font-size: 95%;
+
+
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
     font-family: 'Outfit', sans-serif;
+
+    /* hsl(0, 0%, 10.59%)   */
+    --background: 0 0% 10.59%;
+    --foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 47.4% 11.2%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 47.4% 11.2%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 210 40% 98%;
+
+    --ring: 215 20.2% 65.1%;
+
+    --radius: 0.5rem;
+
+
 }
 
 /* You can override the default Infima variables here. */
@@ -36,15 +104,64 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
+
+    /* hsl(5.97, 88.02%, 57.45%) */
     --ifm-color-primary: #f24633;
+
+    /* hsl(19.3, 84.62%, 66.86%) */
     --ifm-color-primary-dark: #f29163;
+
+    /* hsl(19.3, 84.62%, 66.86%) */
     --ifm-color-primary-darker: #f2da80;
+
+
+    /* hsl(47.29, 76.58%, 78.24%) */
     --ifm-color-primary-darkest: #f2e09d;
+
+
+    /* hsl(47.08, 71.43%, 82.16%) */
     --ifm-color-primary-light: #f2e4b1;
+
+    /* hsl(49.09, 45.83%, 90.59%) */
     --ifm-color-primary-lighter: #f2eedc;
+
+    /* hsl(0, 0%, 94.9%) off white */
     --ifm-color-primary-lightest: #f2f2f2;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
     font-family: 'Outfit', sans-serif;
+
+    background: 0 0% 10.59%;
+    /* --background: 224 71% 4%; */
+    --foreground: 213 31% 91%;
+
+    --muted: 223 47% 11%;
+    --muted-foreground: 215.4 16.3% 56.9%;
+
+    --accent: 216 34% 17%;
+    --accent-foreground: 210 40% 98%;
+
+    --popover: 224 71% 4%;
+    --popover-foreground: 215 20.2% 65.1%;
+
+    --border: 216 34% 17%;
+    --input: 216 34% 17%;
+
+    --card: 224 71% 4%;
+    --card-foreground: 213 31% 91%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 1.2%;
+
+    --secondary: 222.2 47.4% 11.2%;
+    --secondary-foreground: 210 40% 98%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --ring: 216 34% 17%;
+
+    --radius: 0.5rem;
+
 }
 
 /* [data-theme='dark'] { */
@@ -59,7 +176,12 @@
 /*     font-family: 'Outfit', sans-serif; */
 /* } */
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Outfit', sans-serif;
     font-weight: 600;
 }
