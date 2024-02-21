@@ -130,21 +130,24 @@
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
     font-family: 'Outfit', sans-serif;
 
-    background: 0 0% 10.59%;
+    --background: 240 4% 11%;
     /* --background: 224 71% 4%; */
     --foreground: 213 31% 91%;
 
     --muted: 223 47% 11%;
     --muted-foreground: 215.4 16.3% 56.9%;
 
-    --accent: 216 34% 17%;
+    /* --accent: 216 34% 17%; */
+    --accent: 210 3% 15%;
     --accent-foreground: 210 40% 98%;
 
     --popover: 224 71% 4%;
     --popover-foreground: 215 20.2% 65.1%;
 
-    --border: 216 34% 17%;
-    --input: 216 34% 17%;
+    /* --border: 216 34% 17%; */
+    --border: 214 8% 41%;
+    /* --input: 216 34% 17%; */
+    --input: 214 8% 41%;
 
     --card: 224 71% 4%;
     --card-foreground: 213 31% 91%;

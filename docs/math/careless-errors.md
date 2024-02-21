@@ -2,7 +2,6 @@
 sidebar_position: 0
 title: Careless Errors
 ---
-import SpeedQuiz from '@site/src/components/SpeedQuiz';
 
 # Careless Errors
 
@@ -102,4 +101,3 @@ Just think about some of the other things you can gain from reducing the number 
 <!-- The objective is to show you how to think about these problems. -->
 <!-- And to showcase how big of difference small optimizations can make when they are compounded. -->
 
-<SpeedQuiz/>
