@@ -24,6 +24,14 @@
     background-color: var(--ifm-navbar-link-hover-color);
 }
 
+ol, ul {
+    padding-left: 2em;
+    padding-bottom: 1.5em;
+}
+ol {
+  list-style-type: upper-alpha;
+}
+
 :root {
     /* hsl(5.89, 88.89%, 50.59%) red */
     --ifm-color-primary: #f12711;
