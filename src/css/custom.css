@@ -10,6 +10,30 @@
 /* orange #f12711 hsv(6,93,95)*/
 /* yellow-orange #f5af19 hsv(41,90,96)*/
 
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h6 {
+    font-size: 16px;
+}
+
 .header-github-link::before {
     content: '';
     width: 24px;
